@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "fetched_at": "2026-04-28T12:17:38.143837+00:00",
+  "fetched_at": "2026-04-28T22:56:55.215227+00:00",
   "count": 13,
   "repositories": [
     {
@@ -8,117 +8,117 @@
       "name": "skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 34138,
-      "stars_today": 5645,
-      "forks": 2681
+      "stars": 37018,
+      "stars_today": 7429,
+      "forks": 2898
     },
     {
       "owner": "abhigyanpatwari",
       "name": "GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 32291,
-      "stars_today": 1102,
-      "forks": 3667
+      "stars": 32597,
+      "stars_today": 1565,
+      "forks": 3701
     },
     {
       "owner": "ComposioHQ",
       "name": "awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars": 3317,
-      "stars_today": 638,
-      "forks": 231
+      "stars": 3945,
+      "stars_today": 961,
+      "forks": 252
     },
     {
       "owner": "microsoft",
       "name": "VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 43740,
-      "stars_today": 757,
-      "forks": 4933
+      "stars": 44721,
+      "stars_today": 1523,
+      "forks": 4970
     },
     {
       "owner": "davila7",
       "name": "claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars": 25975,
-      "stars_today": 154,
-      "forks": 2600
+      "stars": 26138,
+      "stars_today": 347,
+      "forks": 2613
     },
     {
       "owner": "HunxByts",
       "name": "GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 10104,
-      "stars_today": 348,
-      "forks": 1434
+      "stars": 10560,
+      "stars_today": 976,
+      "forks": 1487
     },
     {
       "owner": "fspecii",
       "name": "ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
       "language": "JavaScript",
-      "stars": 1382,
-      "stars_today": 200,
-      "forks": 231
+      "stars": 1637,
+      "stars_today": 263,
+      "forks": 256
     },
     {
       "owner": "public-apis",
       "name": "public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 427509,
+      "stars": 428083,
       "stars_today": 600,
-      "forks": 46707
+      "forks": 46748
     },
     {
       "owner": "CJackHwang",
       "name": "ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
-      "stars": 2113,
-      "stars_today": 138,
-      "forks": 616
+      "stars": 2298,
+      "stars_today": 418,
+      "forks": 645
     },
     {
       "owner": "Alishahryar1",
       "name": "free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars": 16901,
-      "stars_today": 2949,
-      "forks": 2371
+      "stars": 17448,
+      "stars_today": 1706,
+      "forks": 2455
     },
     {
       "owner": "donnemartin",
       "name": "system-design-primer",
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
-      "stars": 345529,
-      "stars_today": 372,
-      "forks": 55799
+      "stars": 345812,
+      "stars_today": 734,
+      "forks": 55827
     },
     {
       "owner": "EbookFoundation",
       "name": "free-programming-books",
       "description": "📚 Freely available programming books",
       "language": "Python",
-      "stars": 386359,
+      "stars": 386595,
       "stars_today": 133,
-      "forks": 66147
+      "forks": 66157
     },
     {
       "owner": "iamgio",
       "name": "quarkdown",
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
-      "stars": 11418,
-      "stars_today": 150,
-      "forks": 303
+      "stars": 11947,
+      "stars_today": 797,
+      "forks": 317
     }
   ]
 }
