@@ -1,0 +1,151 @@
+{
+  "date": "2026-04-29",
+  "fetched_at": "2026-04-29T13:25:52.818120+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "warpdotdev",
+      "name": "warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": 39797,
+      "stars_today": 11955,
+      "forks": 2208
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 41641,
+      "stars_today": 7356,
+      "forks": 3269
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 11184,
+      "stars_today": 1036,
+      "forks": 1540
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": 4522,
+      "stars_today": 1180,
+      "forks": 285
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 1060,
+      "stars_today": 386,
+      "forks": 111
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 33080,
+      "stars_today": 777,
+      "forks": 3750
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 45431,
+      "stars_today": 1688,
+      "forks": 5023
+    },
+    {
+      "owner": "CJackHwang",
+      "name": "ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": 2591,
+      "stars_today": 461,
+      "forks": 702
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 172532,
+      "stars_today": 1683,
+      "forks": 15219
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars": 32455,
+      "stars_today": 278,
+      "forks": 32834
+    },
+    {
+      "owner": "lukilabs",
+      "name": "craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 5192,
+      "stars_today": 432,
+      "forks": 711
+    },
+    {
+      "owner": "EbookFoundation",
+      "name": "free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "stars": 386963,
+      "stars_today": 609,
+      "forks": 66175
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 19890,
+      "stars_today": 31,
+      "forks": 1407
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 19298,
+      "stars_today": 143,
+      "forks": 2132
+    },
+    {
+      "owner": "gorhill",
+      "name": "uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": 63899,
+      "stars_today": 569,
+      "forks": 4069
+    },
+    {
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "stars": 132212,
+      "stars_today": 79,
+      "forks": 7907
+    }
+  ]
+}
