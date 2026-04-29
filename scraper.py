@@ -137,12 +137,12 @@ def generate_readme(repos: list[dict], today: str) -> str:
     top10 = repos[:10]
 
     lines = [
-        "# 🔥 GitHub Trending Top 10 — Daily Report",
+        "# GitHub Trending Top 10 - Daily Report",
         "",
         f"**Date:** {today}",
         f"**Total repos scraped:** {len(repos)}",
         "",
-        "| # | Repository | Stars | ⭐ Today | Language | Description |",
+        "| # | Repository | Stars | Stars Today | Language | Description |",
         "|---|------------|------:|--------:|----------|-------------|",
     ]
 
@@ -186,7 +186,7 @@ def main():
     for i, repo in enumerate(repos[:10], 1):
         print(
             f"  {i:2d}. {repo['owner']}/{repo['name']} "
-            f"⭐ {repo['stars']:,} (+{repo['stars_today']:,} today) "
+            f"{repo['stars']:,} stars (+{repo['stars_today']:,} today) "
             f"[{repo['language']}]"
         )
         if repo["description"]:
