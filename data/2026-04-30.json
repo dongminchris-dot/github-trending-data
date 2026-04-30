@@ -1,0 +1,124 @@
+{
+  "date": "2026-04-30",
+  "fetched_at": "2026-04-30T14:36:39.910821+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "warpdotdev",
+      "name": "warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": 47928,
+      "stars_today": 8262,
+      "forks": 3053
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 56759,
+      "stars_today": 386,
+      "forks": 10667
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 47949,
+      "stars_today": 6175,
+      "forks": 3902
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 174166,
+      "stars_today": 1623,
+      "forks": 15362
+    },
+    {
+      "owner": "lukilabs",
+      "name": "craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 5492,
+      "stars_today": 314,
+      "forks": 733
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 429159,
+      "stars_today": 307,
+      "forks": 46842
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 1751,
+      "stars_today": 670,
+      "forks": 158
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 20622,
+      "stars_today": 723,
+      "forks": 1438
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 11992,
+      "stars_today": 830,
+      "forks": 1615
+    },
+    {
+      "owner": "iamgio",
+      "name": "quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars": 12808,
+      "stars_today": 799,
+      "forks": 347
+    },
+    {
+      "owner": "ghostty-org",
+      "name": "ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "stars": 52581,
+      "stars_today": 411,
+      "forks": 2546
+    },
+    {
+      "owner": "ForrestKnight",
+      "name": "open-source-cs",
+      "description": "Video discussing this curriculum:",
+      "language": "",
+      "stars": 22261,
+      "stars_today": 133,
+      "forks": 3205
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 710,
+      "stars_today": 54,
+      "forks": 57
+    }
+  ]
+}
