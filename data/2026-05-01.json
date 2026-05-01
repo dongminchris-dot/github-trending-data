@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "fetched_at": "2026-05-01T13:13:02.840986+00:00",
+  "fetched_at": "2026-05-01T14:03:12.824049+00:00",
   "count": 9,
   "repositories": [
     {
@@ -8,16 +8,16 @@
       "name": "TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 58758,
+      "stars": 58863,
       "stars_today": 2115,
-      "forks": 11218
+      "forks": 11235
     },
     {
       "owner": "soxoj",
       "name": "maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 21126,
+      "stars": 21158,
       "stars_today": 535,
       "forks": 1469
     },
@@ -26,43 +26,43 @@
       "name": "warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 50720,
+      "stars": 50808,
       "stars_today": 3403,
-      "forks": 3360
+      "forks": 3368
     },
     {
       "owner": "1jehuang",
       "name": "jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 2116,
+      "stars": 2139,
       "stars_today": 404,
-      "forks": 189
+      "forks": 191
     },
     {
       "owner": "mattpocock",
       "name": "skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 51236,
+      "stars": 51383,
       "stars_today": 3649,
-      "forks": 4273
+      "forks": 4281
     },
     {
       "owner": "browserbase",
       "name": "skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 1020,
+      "stars": 1036,
       "stars_today": 334,
-      "forks": 72
+      "forks": 73
     },
     {
       "owner": "simstudioai",
       "name": "sim",
       "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "language": "TypeScript",
-      "stars": 28016,
+      "stars": 28031,
       "stars_today": 38,
       "forks": 3547
     },
@@ -71,18 +71,18 @@
       "name": "superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 175148,
+      "stars": 175192,
       "stars_today": 1098,
-      "forks": 15466
+      "forks": 15473
     },
     {
       "owner": "Flowseal",
       "name": "zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 26877,
+      "stars": 26887,
       "stars_today": 165,
-      "forks": 2100
+      "forks": 2102
     }
   ]
 }
