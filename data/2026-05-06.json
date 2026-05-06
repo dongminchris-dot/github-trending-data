@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "fetched_at": "2026-05-06T14:49:43.568263+00:00",
+  "fetched_at": "2026-05-06T15:14:04.509835+00:00",
   "count": 15,
   "repositories": [
     {
@@ -8,25 +8,25 @@
       "name": "DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 12486,
+      "stars": 12621,
       "stars_today": 6184,
-      "forks": 949
+      "forks": 956
     },
     {
       "owner": "addyosmani",
       "name": "agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 29550,
+      "stars": 29611,
       "stars_today": 629,
-      "forks": 3567
+      "forks": 3572
     },
     {
       "owner": "PriorLabs",
       "name": "TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Python",
-      "stars": 6501,
+      "stars": 6504,
       "stars_today": 218,
       "forks": 649
     },
@@ -35,16 +35,16 @@
       "name": "docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars": 14556,
+      "stars": 14574,
       "stars_today": 772,
-      "forks": 1313
+      "forks": 1315
     },
     {
       "owner": "LearningCircuit",
       "name": "local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars": 5482,
+      "stars": 5490,
       "stars_today": 532,
       "forks": 499
     },
@@ -53,54 +53,54 @@
       "name": "ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars": 62866,
+      "stars": 62871,
       "stars_today": 87,
-      "forks": 2991
+      "forks": 2992
     },
     {
       "owner": "InsForge",
       "name": "InsForge",
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
-      "stars": 8286,
+      "stars": 8292,
       "stars_today": 213,
-      "forks": 688
+      "forks": 689
     },
     {
       "owner": "virattt",
       "name": "dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": 24193,
+      "stars": 24199,
       "stars_today": 666,
-      "forks": 2944
+      "forks": 2946
     },
     {
       "owner": "anthropics",
       "name": "financial-services",
       "description": "",
       "language": "Python",
-      "stars": 8700,
+      "stars": 8718,
       "stars_today": 540,
-      "forks": 1173
+      "forks": 1177
     },
     {
       "owner": "ruvnet",
       "name": "ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars": 44827,
+      "stars": 44852,
       "stars_today": 2190,
-      "forks": 4970
+      "forks": 4972
     },
     {
       "owner": "cheahjs",
       "name": "free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
-      "stars": 20280,
+      "stars": 20292,
       "stars_today": 344,
-      "forks": 2073
+      "forks": 2077
     },
     {
       "owner": "shiyu-coder",
@@ -109,14 +109,14 @@
       "language": "Python",
       "stars": 23114,
       "stars_today": 241,
-      "forks": 4051
+      "forks": 4053
     },
     {
       "owner": "bwya77",
       "name": "vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
       "language": "PowerShell",
-      "stars": 8108,
+      "stars": 8114,
       "stars_today": 502,
       "forks": 250
     },
@@ -134,9 +134,9 @@
       "name": "Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars": 45876,
+      "stars": 45899,
       "stars_today": 1184,
-      "forks": 4241
+      "forks": 4246
     }
   ]
 }
