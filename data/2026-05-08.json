@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "fetched_at": "2026-05-08T13:42:25.246788+00:00",
+  "fetched_at": "2026-05-08T14:25:16.025520+00:00",
   "count": 12,
   "repositories": [
     {
@@ -8,43 +8,43 @@
       "name": "financial-services",
       "description": "",
       "language": "Python",
-      "stars": 13759,
+      "stars": 13876,
       "stars_today": 3662,
-      "forks": 1721
+      "forks": 1727
     },
     {
       "owner": "addyosmani",
       "name": "agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 34213,
+      "stars": 34331,
       "stars_today": 1794,
-      "forks": 3926
+      "forks": 3938
     },
     {
       "owner": "Hmbown",
       "name": "DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 21226,
+      "stars": 21286,
       "stars_today": 3827,
-      "forks": 1641
+      "forks": 1647
     },
     {
       "owner": "z-lab",
       "name": "dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars": 3677,
+      "stars": 3697,
       "stars_today": 388,
-      "forks": 259
+      "forks": 260
     },
     {
       "owner": "decolua",
       "name": "9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars": 5213,
+      "stars": 5241,
       "stars_today": 1028,
       "forks": 1040
     },
@@ -53,16 +53,16 @@
       "name": "CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 2532,
+      "stars": 2569,
       "stars_today": 482,
-      "forks": 208
+      "forks": 213
     },
     {
       "owner": "awslabs",
       "name": "aidlc-workflows",
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "language": "Python",
-      "stars": 1631,
+      "stars": 1639,
       "stars_today": 31,
       "forks": 302
     },
@@ -71,45 +71,45 @@
       "name": "AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars": 14368,
+      "stars": 14390,
       "stars_today": 189,
-      "forks": 2420
+      "forks": 2421
     },
     {
       "owner": "LearningCircuit",
       "name": "local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars": 6569,
+      "stars": 6584,
       "stars_today": 572,
-      "forks": 575
+      "forks": 576
     },
     {
       "owner": "lobehub",
       "name": "lobehub",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
-      "stars": 76285,
+      "stars": 76305,
       "stars_today": 74,
-      "forks": 15103
+      "forks": 15104
     },
     {
       "owner": "datawhalechina",
       "name": "hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars": 44294,
+      "stars": 44337,
       "stars_today": 645,
-      "forks": 5388
+      "forks": 5395
     },
     {
       "owner": "flutter",
       "name": "skills",
       "description": "",
       "language": "Dart",
-      "stars": 1528,
+      "stars": 1536,
       "stars_today": 68,
-      "forks": 86
+      "forks": 87
     }
   ]
 }
