@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-09",
+  "fetched_at": "2026-05-09T14:01:26.871414+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 16749,
+      "stars_today": 3077,
+      "forks": 2106
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 31132,
+      "stars_today": 850,
+      "forks": 3092
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 3130,
+      "stars_today": 400,
+      "forks": 322
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 45448,
+      "stars_today": 1162,
+      "forks": 5510
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 8252,
+      "stars_today": 294,
+      "forks": 847
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 13580,
+      "stars_today": 144,
+      "forks": 1351
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 38652,
+      "stars_today": 145,
+      "forks": 2443
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 2189,
+      "stars_today": 595,
+      "forks": 224
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 6028,
+      "stars_today": 513,
+      "forks": 699
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 36409,
+      "stars_today": 189,
+      "forks": 4479
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 36944,
+      "stars_today": 2801,
+      "forks": 4137
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 6196,
+      "stars_today": 980,
+      "forks": 1124
+    },
+    {
+      "owner": "oracle-devrel",
+      "name": "oracle-ai-developer-hub",
+      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "language": "Jupyter Notebook",
+      "stars": 679,
+      "stars_today": 142,
+      "forks": 219
+    }
+  ]
+}
