@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-10",
+  "fetched_at": "2026-05-10T14:03:22.327019+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 31819,
+      "stars_today": 656,
+      "forks": 3161
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 18206,
+      "stars_today": 1479,
+      "forks": 2341
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 37982,
+      "stars_today": 1092,
+      "forks": 4227
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 4267,
+      "stars_today": 1167,
+      "forks": 343
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 15251,
+      "stars_today": 646,
+      "forks": 2506
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 13121,
+      "stars_today": 187,
+      "forks": 1124
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 8875,
+      "stars_today": 642,
+      "forks": 880
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 6593,
+      "stars_today": 604,
+      "forks": 755
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 2832,
+      "stars_today": 694,
+      "forks": 307
+    },
+    {
+      "owner": "lsdefine",
+      "name": "GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": 10402,
+      "stars_today": 538,
+      "forks": 1182
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 6971,
+      "stars_today": 806,
+      "forks": 1216
+    },
+    {
+      "owner": "affaan-m",
+      "name": "everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 177479,
+      "stars_today": 1011,
+      "forks": 27434
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 46189,
+      "stars_today": 756,
+      "forks": 5570
+    }
+  ]
+}
