@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-11",
+  "fetched_at": "2026-05-11T15:46:20.609728+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 32824,
+      "stars_today": 956,
+      "forks": 3252
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 5740,
+      "stars_today": 1325,
+      "forks": 432
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 10476,
+      "stars_today": 397,
+      "forks": 1978
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 7162,
+      "stars_today": 533,
+      "forks": 787
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 9728,
+      "stars_today": 808,
+      "forks": 930
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 8021,
+      "stars_today": 942,
+      "forks": 1300
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 1129,
+      "stars_today": 501,
+      "forks": 155
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 7792,
+      "stars_today": 312,
+      "forks": 247
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 37223,
+      "stars_today": 373,
+      "forks": 4568
+    },
+    {
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars": 162857,
+      "stars_today": 29,
+      "forks": 30328
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 92743,
+      "stars_today": 141,
+      "forks": 14310
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 144159,
+      "stars_today": 1496,
+      "forks": 22511
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 4423,
+      "stars_today": 655,
+      "forks": 415
+    }
+  ]
+}
