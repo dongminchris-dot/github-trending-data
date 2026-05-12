@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-12",
+  "fetched_at": "2026-05-12T15:29:46.498222+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 2238,
+      "stars_today": 1042,
+      "forks": 227
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 5486,
+      "stars_today": 1067,
+      "forks": 518
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 7277,
+      "stars_today": 1589,
+      "forks": 533
+    },
+    {
+      "owner": "apernet",
+      "name": "hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": 20068,
+      "stars_today": 112,
+      "forks": 2087
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 75159,
+      "stars_today": 3886,
+      "forks": 6478
+    },
+    {
+      "owner": "anonfaded",
+      "name": "FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "stars": 2106,
+      "stars_today": 111,
+      "forks": 163
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 8559,
+      "stars_today": 804,
+      "forks": 273
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 93491,
+      "stars_today": 776,
+      "forks": 14396
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 48071,
+      "stars_today": 600,
+      "forks": 5785
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 11630,
+      "stars_today": 1264,
+      "forks": 2069
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 16358,
+      "stars_today": 267,
+      "forks": 2599
+    }
+  ]
+}
