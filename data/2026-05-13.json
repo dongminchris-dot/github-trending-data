@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-13",
+  "fetched_at": "2026-05-13T15:33:11.184537+00:00",
+  "count": 19,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 4385,
+      "stars_today": 1595,
+      "forks": 367
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 7031,
+      "stars_today": 1335,
+      "forks": 619
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 189123,
+      "stars_today": 1419,
+      "forks": 16819
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 12689,
+      "stars_today": 987,
+      "forks": 2183
+    },
+    {
+      "owner": "influxdata",
+      "name": "telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 16920,
+      "stars_today": 6,
+      "forks": 5775
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 9115,
+      "stars_today": 620,
+      "forks": 287
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 20938,
+      "stars_today": 83,
+      "forks": 2316
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 13169,
+      "stars_today": 620,
+      "forks": 1851
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 3991,
+      "stars_today": 53,
+      "forks": 409
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 9121,
+      "stars_today": 1829,
+      "forks": 677
+    },
+    {
+      "owner": "Greedeks",
+      "name": "GTweak",
+      "description": "Portable Tool for an Ideal Windows Setup",
+      "language": "C#",
+      "stars": 801,
+      "stars_today": 220,
+      "forks": 71
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 78296,
+      "stars_today": 3372,
+      "forks": 6751
+    },
+    {
+      "owner": "ArthurBrussee",
+      "name": "brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": 4290,
+      "stars_today": 78,
+      "forks": 229
+    },
+    {
+      "owner": "imthenachoman",
+      "name": "How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": "",
+      "stars": 26916,
+      "stars_today": 233,
+      "forks": 1767
+    },
+    {
+      "owner": "apernet",
+      "name": "hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": 20527,
+      "stars_today": 489,
+      "forks": 2123
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 94274,
+      "stars_today": 824,
+      "forks": 14463
+    },
+    {
+      "owner": "ton-blockchain",
+      "name": "acton",
+      "description": "Toolchain for TON smart contract development and beyond",
+      "language": "Rust",
+      "stars": 130,
+      "stars_today": 15,
+      "forks": 20
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars": 16431,
+      "stars_today": 307,
+      "forks": 1034
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 98000,
+      "stars_today": 1299,
+      "forks": 8536
+    }
+  ]
+}
