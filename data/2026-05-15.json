@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-15",
+  "fetched_at": "2026-05-15T15:03:31.936638+00:00",
+  "count": 12,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 8584,
+      "stars_today": 1272,
+      "forks": 706
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 192383,
+      "stars_today": 1646,
+      "forks": 17106
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 22219,
+      "stars_today": 643,
+      "forks": 2406
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 5763,
+      "stars_today": 712,
+      "forks": 569
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 57075,
+      "stars_today": 1865,
+      "forks": 7501
+    },
+    {
+      "owner": "influxdata",
+      "name": "telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 17336,
+      "stars_today": 213,
+      "forks": 5801
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 134793,
+      "stars_today": 625,
+      "forks": 15906
+    },
+    {
+      "owner": "czlonkowski",
+      "name": "n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 20782,
+      "stars_today": 68,
+      "forks": 3391
+    },
+    {
+      "owner": "NVIDIA-AI-Blueprints",
+      "name": "video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars": 1041,
+      "stars_today": 305,
+      "forks": 257
+    },
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 90512,
+      "stars_today": 289,
+      "forks": 4500
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 84247,
+      "stars_today": 3155,
+      "forks": 7303
+    },
+    {
+      "owner": "joeseesun",
+      "name": "qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "language": "Python",
+      "stars": 2486,
+      "stars_today": 465,
+      "forks": 260
+    }
+  ]
+}
