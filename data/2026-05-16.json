@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-16",
+  "fetched_at": "2026-05-16T14:07:13.714918+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 90872,
+      "stars_today": 414,
+      "forks": 4524
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 22866,
+      "stars_today": 669,
+      "forks": 2464
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 193542,
+      "stars_today": 1281,
+      "forks": 17213
+    },
+    {
+      "owner": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": 14146,
+      "stars_today": 356,
+      "forks": 2485
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 6480,
+      "stars_today": 745,
+      "forks": 651
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 10133,
+      "stars_today": 1601,
+      "forks": 862
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 57968,
+      "stars_today": 990,
+      "forks": 7581
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "description": "Why is this running?",
+      "language": "Go",
+      "stars": 16622,
+      "stars_today": 484,
+      "forks": 499
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 2175,
+      "stars_today": 397,
+      "forks": 192
+    }
+  ]
+}
