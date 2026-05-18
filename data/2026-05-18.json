@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-18",
+  "fetched_at": "2026-05-18T16:05:12.299296+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 16259,
+      "stars_today": 3945,
+      "forks": 1401
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 10979,
+      "stars_today": 1302,
+      "forks": 1149
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 36414,
+      "stars_today": 1047,
+      "forks": 3534
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 24243,
+      "stars_today": 610,
+      "forks": 2566
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 8137,
+      "stars_today": 827,
+      "forks": 836
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 110852,
+      "stars_today": 179,
+      "forks": 18351
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 59659,
+      "stars_today": 704,
+      "forks": 7787
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 14810,
+      "stars_today": 1391,
+      "forks": 1161
+    },
+    {
+      "owner": "tech-leads-club",
+      "name": "agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 3891,
+      "stars_today": 1244,
+      "forks": 342
+    },
+    {
+      "owner": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars": 7571,
+      "stars_today": 768,
+      "forks": 1177
+    },
+    {
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": 20350,
+      "stars_today": 359,
+      "forks": 1541
+    },
+    {
+      "owner": "NVlabs",
+      "name": "Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "stars": 6378,
+      "stars_today": 376,
+      "forks": 452
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 63243,
+      "stars_today": 1013,
+      "forks": 21150
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars": 36901,
+      "stars_today": 290,
+      "forks": 36125
+    },
+    {
+      "owner": "plausible",
+      "name": "analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "stars": 25800,
+      "stars_today": 637,
+      "forks": 1488
+    }
+  ]
+}
