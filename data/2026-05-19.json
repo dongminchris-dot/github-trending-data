@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-19",
+  "fetched_at": "2026-05-19T16:01:21.684890+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 20235,
+      "stars_today": 3991,
+      "forks": 1780
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 37493,
+      "stars_today": 1027,
+      "forks": 3592
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 13807,
+      "stars_today": 3184,
+      "forks": 1305
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 198033,
+      "stars_today": 1620,
+      "forks": 17670
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 19972,
+      "stars_today": 127,
+      "forks": 2498
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 13825,
+      "stars_today": 1626,
+      "forks": 1158
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 16206,
+      "stars_today": 1466,
+      "forks": 1254
+    },
+    {
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars": 50569,
+      "stars_today": 667,
+      "forks": 3085
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 101128,
+      "stars_today": 983,
+      "forks": 16733
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 6051,
+      "stars_today": 1869,
+      "forks": 411
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 137451,
+      "stars_today": 2014,
+      "forks": 14092
+    },
+    {
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": 21053,
+      "stars_today": 733,
+      "forks": 1590
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": 10594,
+      "stars_today": 930,
+      "forks": 367
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars": 26093,
+      "stars_today": 543,
+      "forks": 3892
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 15768,
+      "stars_today": 88,
+      "forks": 2075
+    },
+    {
+      "owner": "frappe",
+      "name": "erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 34130,
+      "stars_today": 65,
+      "forks": 11305
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 64086,
+      "stars_today": 820,
+      "forks": 21261
+    },
+    {
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "stars": 5217,
+      "stars_today": 504,
+      "forks": 906
+    }
+  ]
+}
