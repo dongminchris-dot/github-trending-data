@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-20",
+  "fetched_at": "2026-05-20T16:09:13.111466+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 8462,
+      "stars_today": 1910,
+      "forks": 536
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 15573,
+      "stars_today": 1639,
+      "forks": 1422
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 23287,
+      "stars_today": 3603,
+      "forks": 2082
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 140160,
+      "stars_today": 2620,
+      "forks": 14377
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 9190,
+      "stars_today": 762,
+      "forks": 1896
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 38351,
+      "stars_today": 930,
+      "forks": 3650
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 5274,
+      "stars_today": 237,
+      "forks": 450
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 199695,
+      "stars_today": 1776,
+      "forks": 17804
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 20604,
+      "stars_today": 706,
+      "forks": 2532
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 102573,
+      "stars_today": 1714,
+      "forks": 16918
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 4578,
+      "stars_today": 726,
+      "forks": 927
+    },
+    {
+      "owner": "truelockmc",
+      "name": "streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "stars": 2647,
+      "stars_today": 925,
+      "forks": 225
+    },
+    {
+      "owner": "opentoonz",
+      "name": "opentoonz",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+      "language": "C++",
+      "stars": 6203,
+      "stars_today": 206,
+      "forks": 718
+    },
+    {
+      "owner": "zakirullin",
+      "name": "files.md",
+      "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+      "language": "Go",
+      "stars": 2073,
+      "stars_today": 468,
+      "forks": 49
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 14869,
+      "stars_today": 1121,
+      "forks": 1233
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 111706,
+      "stars_today": 549,
+      "forks": 18485
+    },
+    {
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "stars": 5878,
+      "stars_today": 692,
+      "forks": 972
+    }
+  ]
+}
