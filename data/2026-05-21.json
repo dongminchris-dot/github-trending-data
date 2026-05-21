@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-21",
+  "fetched_at": "2026-05-21T15:59:58.723496+00:00",
+  "count": 19,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 21688,
+      "stars_today": 891,
+      "forks": 2609
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 12531,
+      "stars_today": 4222,
+      "forks": 724
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 142633,
+      "stars_today": 2590,
+      "forks": 14628
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2076,
+      "stars_today": 96,
+      "forks": 173
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 201198,
+      "stars_today": 1572,
+      "forks": 17922
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 38956,
+      "stars_today": 644,
+      "forks": 3702
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 5256,
+      "stars_today": 704,
+      "forks": 1055
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 40341,
+      "stars_today": 132,
+      "forks": 2566
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 10471,
+      "stars_today": 1318,
+      "forks": 2074
+    },
+    {
+      "owner": "teng-lin",
+      "name": "notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "language": "Python",
+      "stars": 14259,
+      "stars_today": 182,
+      "forks": 1984
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 5741,
+      "stars_today": 483,
+      "forks": 472
+    },
+    {
+      "owner": "antoinezambelli",
+      "name": "forge",
+      "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "language": "Python",
+      "stars": 1393,
+      "stars_today": 449,
+      "forks": 71
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "stars": 30503,
+      "stars_today": 511,
+      "forks": 3711
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 17901,
+      "stars_today": 2502,
+      "forks": 1536
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "",
+      "stars": 222130,
+      "stars_today": 429,
+      "forks": 13289
+    },
+    {
+      "owner": "truelockmc",
+      "name": "streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "stars": 3694,
+      "stars_today": 1057,
+      "forks": 290
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 103464,
+      "stars_today": 990,
+      "forks": 17022
+    },
+    {
+      "owner": "alireza0",
+      "name": "s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": 8892,
+      "stars_today": 25,
+      "forks": 1500
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 16254,
+      "stars_today": 854,
+      "forks": 1532
+    }
+  ]
+}
