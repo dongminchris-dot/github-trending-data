@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-22",
+  "fetched_at": "2026-05-22T15:38:24.332888+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 24141,
+      "stars_today": 2556,
+      "forks": 2723
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 15913,
+      "stars_today": 3688,
+      "forks": 875
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 63676,
+      "stars_today": 992,
+      "forks": 8424
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 11425,
+      "stars_today": 988,
+      "forks": 2188
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 40831,
+      "stars_today": 499,
+      "forks": 2584
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2436,
+      "stars_today": 391,
+      "forks": 192
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 17827,
+      "stars_today": 1391,
+      "forks": 1626
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 50985,
+      "stars_today": 48,
+      "forks": 32503
+    },
+    {
+      "owner": "byJoey",
+      "name": "cfnew",
+      "description": "",
+      "language": "",
+      "stars": 13242,
+      "stars_today": 85,
+      "forks": 6471
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "",
+      "stars": 223005,
+      "stars_today": 964,
+      "forks": 13369
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 22444,
+      "stars_today": 337,
+      "forks": 3103
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 6208,
+      "stars_today": 455,
+      "forks": 505
+    },
+    {
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 164070,
+      "stars_today": 335,
+      "forks": 13800
+    },
+    {
+      "owner": "karpathy",
+      "name": "nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "stars": 22175,
+      "stars_today": 93,
+      "forks": 3233
+    }
+  ]
+}
