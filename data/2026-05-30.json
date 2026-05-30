@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-30",
+  "fetched_at": "2026-05-30T14:16:36.122435+00:00",
+  "count": 19,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 131261,
+      "stars_today": 2473,
+      "forks": 8994
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 71350,
+      "stars_today": 2775,
+      "forks": 10252
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 128208,
+      "stars_today": 595,
+      "forks": 20930
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 1380,
+      "stars_today": 206,
+      "forks": 115
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 4141,
+      "stars_today": 313,
+      "forks": 613
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 18319,
+      "stars_today": 348,
+      "forks": 1386
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 198998,
+      "stars_today": 918,
+      "forks": 30560
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 22542,
+      "stars_today": 1815,
+      "forks": 2650
+    },
+    {
+      "owner": "galilai-group",
+      "name": "stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars": 1382,
+      "stars_today": 319,
+      "forks": 161
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 27173,
+      "stars_today": 473,
+      "forks": 2664
+    },
+    {
+      "owner": "run-llama",
+      "name": "liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars": 7704,
+      "stars_today": 929,
+      "forks": 458
+    },
+    {
+      "owner": "chen08209",
+      "name": "FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 40279,
+      "stars_today": 190,
+      "forks": 2521
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars": 2006,
+      "stars_today": 316,
+      "forks": 346
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 68541,
+      "stars_today": 656,
+      "forks": 9133
+    },
+    {
+      "owner": "DataTalksClub",
+      "name": "data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "language": "Jupyter Notebook",
+      "stars": 41706,
+      "stars_today": 277,
+      "forks": 8281
+    },
+    {
+      "owner": "OpenMOSS",
+      "name": "MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "language": "Python",
+      "stars": 2525,
+      "stars_today": 355,
+      "forks": 233
+    },
+    {
+      "owner": "dreammis",
+      "name": "social-auto-upload",
+      "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+      "language": "Python",
+      "stars": 11670,
+      "stars_today": 141,
+      "forks": 2080
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 143849,
+      "stars_today": 945,
+      "forks": 16957
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 507799,
+      "stars_today": 814,
+      "forks": 48224
+    }
+  ]
+}
