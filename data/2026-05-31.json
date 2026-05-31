@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-31",
+  "fetched_at": "2026-05-31T14:20:55.482102+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 73280,
+      "stars_today": 1937,
+      "forks": 10468
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 134020,
+      "stars_today": 2759,
+      "forks": 9164
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 56179,
+      "stars_today": 639,
+      "forks": 5449
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 9644,
+      "stars_today": 320,
+      "forks": 1333
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 18571,
+      "stars_today": 243,
+      "forks": 1404
+    },
+    {
+      "owner": "github",
+      "name": "docs",
+      "description": "The open-source repo for docs.github.com",
+      "language": "TypeScript",
+      "stars": 19613,
+      "stars_today": 20,
+      "forks": 67275
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 23175,
+      "stars_today": 639,
+      "forks": 2701
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 4462,
+      "stars_today": 318,
+      "forks": 636
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars": 2639,
+      "stars_today": 627,
+      "forks": 408
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 23093,
+      "stars_today": 236,
+      "forks": 2088
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 27543,
+      "stars_today": 372,
+      "forks": 2702
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 128670,
+      "stars_today": 490,
+      "forks": 20973
+    },
+    {
+      "owner": "nicobailon",
+      "name": "pi-subagents",
+      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "language": "TypeScript",
+      "stars": 1746,
+      "stars_today": 59,
+      "forks": 250
+    },
+    {
+      "owner": "emmabostian",
+      "name": "developer-portfolios",
+      "description": "A list of developer portfolios for your inspiration",
+      "language": "Python",
+      "stars": 23182,
+      "stars_today": 67,
+      "forks": 4597
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 508935,
+      "stars_today": 1112,
+      "forks": 48280
+    }
+  ]
+}
