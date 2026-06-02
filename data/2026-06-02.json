@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-02",
+  "fetched_at": "2026-06-02T17:05:41.382109+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 5579,
+      "stars_today": 1266,
+      "forks": 407
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 140761,
+      "stars_today": 3616,
+      "forks": 9582
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 203348,
+      "stars_today": 1597,
+      "forks": 31195
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 58938,
+      "stars_today": 1196,
+      "forks": 5695
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 12378,
+      "stars_today": 1725,
+      "forks": 1524
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 4378,
+      "stars_today": 190,
+      "forks": 576
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 24964,
+      "stars_today": 779,
+      "forks": 2868
+    },
+    {
+      "owner": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars": 18294,
+      "stars_today": 570,
+      "forks": 5215
+    },
+    {
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars": 6300,
+      "stars_today": 31,
+      "forks": 1481
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 24484,
+      "stars_today": 677,
+      "forks": 2170
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 8196,
+      "stars_today": 65,
+      "forks": 1064
+    }
+  ]
+}
