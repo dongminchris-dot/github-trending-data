@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-03",
+  "fetched_at": "2026-06-03T17:32:55.584173+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 9043,
+      "stars_today": 3528,
+      "forks": 603
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 205337,
+      "stars_today": 2147,
+      "forks": 31514
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35323,
+      "stars_today": 26,
+      "forks": 412
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 178713,
+      "stars_today": 1736,
+      "forks": 30620
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 142598,
+      "stars_today": 2006,
+      "forks": 9732
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 13003,
+      "stars_today": 734,
+      "forks": 1587
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 59970,
+      "stars_today": 1078,
+      "forks": 5790
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 23130,
+      "stars_today": 573,
+      "forks": 2174
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 51853,
+      "stars_today": 29,
+      "forks": 32636
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 8840,
+      "stars_today": 702,
+      "forks": 1099
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars": 348890,
+      "stars_today": 459,
+      "forks": 83149
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 18751,
+      "stars_today": 208,
+      "forks": 2061
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 25052,
+      "stars_today": 601,
+      "forks": 2201
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 9739,
+      "stars_today": 221,
+      "forks": 1986
+    }
+  ]
+}
