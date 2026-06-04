@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-04",
+  "fetched_at": "2026-06-04T16:02:46.840311+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 11829,
+      "stars_today": 3139,
+      "forks": 773
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 180481,
+      "stars_today": 1735,
+      "forks": 30953
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 206827,
+      "stars_today": 1736,
+      "forks": 31748
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 79689,
+      "stars_today": 105,
+      "forks": 10590
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 108380,
+      "stars_today": 311,
+      "forks": 9586
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars": 8869,
+      "stars_today": 138,
+      "forks": 573
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 24641,
+      "stars_today": 227,
+      "forks": 2876
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 9420,
+      "stars_today": 583,
+      "forks": 1140
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars": 349552,
+      "stars_today": 330,
+      "forks": 83207
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 8869,
+      "stars_today": 25,
+      "forks": 1204
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35597,
+      "stars_today": 255,
+      "forks": 428
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "language": "C#",
+      "stars": 1221,
+      "stars_today": 331,
+      "forks": 159
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 5156,
+      "stars_today": 308,
+      "forks": 628
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 27387,
+      "stars_today": 173,
+      "forks": 2336
+    }
+  ]
+}
