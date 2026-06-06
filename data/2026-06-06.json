@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-06",
+  "fetched_at": "2026-06-06T14:18:09.669029+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 28497,
+      "stars_today": 441,
+      "forks": 2412
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": 32986,
+      "stars_today": 613,
+      "forks": 4218
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars": 54103,
+      "stars_today": 441,
+      "forks": 7097
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 14812,
+      "stars_today": 63,
+      "forks": 2111
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 1658,
+      "stars_today": 215,
+      "forks": 252
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 22024,
+      "stars_today": 700,
+      "forks": 1886
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 86881,
+      "stars_today": 34,
+      "forks": 4930
+    },
+    {
+      "owner": "nginx",
+      "name": "nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": 30616,
+      "stars_today": 39,
+      "forks": 7954
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35935,
+      "stars_today": 159,
+      "forks": 450
+    },
+    {
+      "owner": "golang",
+      "name": "go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 134448,
+      "stars_today": 24,
+      "forks": 19109
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 26395,
+      "stars_today": 783,
+      "forks": 3021
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 219342,
+      "stars_today": 1008,
+      "forks": 19515
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 49014,
+      "stars_today": 203,
+      "forks": 10176
+    },
+    {
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "stars": 101715,
+      "stars_today": 155,
+      "forks": 12434
+    },
+    {
+      "owner": "vitejs",
+      "name": "vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "stars": 81095,
+      "stars_today": 71,
+      "forks": 8270
+    },
+    {
+      "owner": "microsoft",
+      "name": "mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "stars": 469,
+      "stars_today": 57,
+      "forks": 21
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 80790,
+      "stars_today": 449,
+      "forks": 10644
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 48337,
+      "stars_today": 219,
+      "forks": 5383
+    }
+  ]
+}
