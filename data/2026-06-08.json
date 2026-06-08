@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-08",
+  "fetched_at": "2026-06-08T16:37:50.935956+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 33725,
+      "stars_today": 3558,
+      "forks": 2774
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 8364,
+      "stars_today": 1730,
+      "forks": 781
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 12218,
+      "stars_today": 481,
+      "forks": 962
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 13399,
+      "stars_today": 649,
+      "forks": 942
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 23857,
+      "stars_today": 796,
+      "forks": 2011
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 15304,
+      "stars_today": 121,
+      "forks": 2155
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 50219,
+      "stars_today": 665,
+      "forks": 10305
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 12492,
+      "stars_today": 112,
+      "forks": 1489
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2243,
+      "stars_today": 296,
+      "forks": 284
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": 3302,
+      "stars_today": 103,
+      "forks": 197
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars": 54791,
+      "stars_today": 237,
+      "forks": 7152
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 42169,
+      "stars_today": 1140,
+      "forks": 3774
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": 33997,
+      "stars_today": 398,
+      "forks": 4292
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 72927,
+      "stars_today": 593,
+      "forks": 16326
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 35615,
+      "stars_today": 393,
+      "forks": 4338
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 47957,
+      "stars_today": 699,
+      "forks": 5055
+    }
+  ]
+}
