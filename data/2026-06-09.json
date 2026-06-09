@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-09",
+  "fetched_at": "2026-06-09T15:42:53.244696+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 36598,
+      "stars_today": 3177,
+      "forks": 2978
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 9904,
+      "stars_today": 1800,
+      "forks": 850
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 42796,
+      "stars_today": 735,
+      "forks": 3819
+    },
+    {
+      "owner": "opencv",
+      "name": "opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 88490,
+      "stars_today": 395,
+      "forks": 56618
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 14145,
+      "stars_today": 821,
+      "forks": 983
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 48374,
+      "stars_today": 490,
+      "forks": 5089
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": 3915,
+      "stars_today": 631,
+      "forks": 215
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73409,
+      "stars_today": 517,
+      "forks": 16440
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars": 139057,
+      "stars_today": 66,
+      "forks": 34550
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 19766,
+      "stars_today": 423,
+      "forks": 3012
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 13262,
+      "stars_today": 808,
+      "forks": 1520
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 51256,
+      "stars_today": 1114,
+      "forks": 10387
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2514,
+      "stars_today": 284,
+      "forks": 302
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 1673,
+      "stars_today": 165,
+      "forks": 199
+    },
+    {
+      "owner": "francescopace",
+      "name": "espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "language": "Python",
+      "stars": 8065,
+      "stars_today": 112,
+      "forks": 626
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 49600,
+      "stars_today": 348,
+      "forks": 5541
+    }
+  ]
+}
