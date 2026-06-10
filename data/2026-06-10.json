@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-10",
+  "fetched_at": "2026-06-10T16:24:30.704946+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 50988,
+      "stars_today": 781,
+      "forks": 5642
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 14389,
+      "stars_today": 775,
+      "forks": 1597
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 14755,
+      "stars_today": 618,
+      "forks": 1020
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 38839,
+      "stars_today": 2561,
+      "forks": 3138
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 31827,
+      "stars_today": 261,
+      "forks": 2324
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars": 139434,
+      "stars_today": 397,
+      "forks": 34580
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 223344,
+      "stars_today": 1011,
+      "forks": 19855
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 5047,
+      "stars_today": 351,
+      "forks": 491
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 84686,
+      "stars_today": 1471,
+      "forks": 12095
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 2176,
+      "stars_today": 535,
+      "forks": 239
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 36406,
+      "stars_today": 204,
+      "forks": 4404
+    },
+    {
+      "owner": "activeloopai",
+      "name": "hivemind",
+      "description": "One brain for all your agents",
+      "language": "TypeScript",
+      "stars": 701,
+      "stars_today": 47,
+      "forks": 44
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 72726,
+      "stars_today": 439,
+      "forks": 9716
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 43441,
+      "stars_today": 699,
+      "forks": 3862
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 13119,
+      "stars_today": 238,
+      "forks": 1002
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Python",
+      "stars": 5065,
+      "stars_today": 241,
+      "forks": 696
+    },
+    {
+      "owner": "apple",
+      "name": "container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 29015,
+      "stars_today": 1358,
+      "forks": 812
+    }
+  ]
+}
