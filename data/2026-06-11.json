@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-11",
+  "fetched_at": "2026-06-11T16:39:21.352212+00:00",
+  "count": 19,
+  "repositories": [
+    {
+      "owner": "apple",
+      "name": "container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 31545,
+      "stars_today": 2419,
+      "forks": 879
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 54068,
+      "stars_today": 3275,
+      "forks": 5886
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 2625,
+      "stars_today": 427,
+      "forks": 261
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": 16030,
+      "stars_today": 1944,
+      "forks": 1679
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 2441,
+      "stars_today": 308,
+      "forks": 200
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 32469,
+      "stars_today": 665,
+      "forks": 2383
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars": 139786,
+      "stars_today": 369,
+      "forks": 34610
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 15296,
+      "stars_today": 604,
+      "forks": 1054
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 224588,
+      "stars_today": 1323,
+      "forks": 19957
+    },
+    {
+      "owner": "restic",
+      "name": "restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 34072,
+      "stars_today": 33,
+      "forks": 1781
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 111281,
+      "stars_today": 1434,
+      "forks": 18224
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 5570,
+      "stars_today": 510,
+      "forks": 516
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 30223,
+      "stars_today": 31,
+      "forks": 7498
+    },
+    {
+      "owner": "kenn-io",
+      "name": "agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "stars": 1513,
+      "stars_today": 98,
+      "forks": 168
+    },
+    {
+      "owner": "alchaincyf",
+      "name": "zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars": 7902,
+      "stars_today": 94,
+      "forks": 2411
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73894,
+      "stars_today": 345,
+      "forks": 16538
+    },
+    {
+      "owner": "hexo-ai",
+      "name": "sia",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "language": "Python",
+      "stars": 1126,
+      "stars_today": 177,
+      "forks": 149
+    },
+    {
+      "owner": "mattermost",
+      "name": "mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 37196,
+      "stars_today": 26,
+      "forks": 8690
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 46670,
+      "stars_today": 342,
+      "forks": 8000
+    }
+  ]
+}
