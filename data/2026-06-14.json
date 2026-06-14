@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-14",
+  "fetched_at": "2026-06-14T14:57:20.569921+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 120119,
+      "stars_today": 1531,
+      "forks": 6422
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 446969,
+      "stars_today": 114,
+      "forks": 44935
+    },
+    {
+      "owner": "pytest-dev",
+      "name": "pytest",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "stars": 13961,
+      "stars_today": 8,
+      "forks": 3173
+    },
+    {
+      "owner": "swc-project",
+      "name": "swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": 33729,
+      "stars_today": 163,
+      "forks": 1400
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 31086,
+      "stars_today": 399,
+      "forks": 7574
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 4956,
+      "stars_today": 962,
+      "forks": 381
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10318,
+      "stars_today": 3,
+      "forks": 3416
+    },
+    {
+      "owner": "cypress-io",
+      "name": "cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 49815,
+      "stars_today": 7,
+      "forks": 3412
+    },
+    {
+      "owner": "GorvGoyl",
+      "name": "Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "",
+      "stars": 35177,
+      "stars_today": 337,
+      "forks": 3168
+    },
+    {
+      "owner": "Introduction-to-Autonomous-Robots",
+      "name": "Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars": 2527,
+      "stars_today": 276,
+      "forks": 589
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 29774,
+      "stars_today": 238,
+      "forks": 5140
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2113,
+      "stars_today": 196,
+      "forks": 435
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 16824,
+      "stars_today": 52,
+      "forks": 2539
+    },
+    {
+      "owner": "puppeteer",
+      "name": "puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 94584,
+      "stars_today": 13,
+      "forks": 9435
+    },
+    {
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 14291,
+      "stars_today": 290,
+      "forks": 1495
+    }
+  ]
+}
