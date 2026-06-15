@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-15",
+  "fetched_at": "2026-06-15T17:33:45.326861+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 122646,
+      "stars_today": 2650,
+      "forks": 6581
+    },
+    {
+      "owner": "teslamate-org",
+      "name": "teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars": 8190,
+      "stars_today": 35,
+      "forks": 944
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 29825,
+      "stars_today": 1045,
+      "forks": 2426
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10578,
+      "stars_today": 227,
+      "forks": 3431
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 31569,
+      "stars_today": 431,
+      "forks": 7622
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars": 126830,
+      "stars_today": 95,
+      "forks": 15132
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 447754,
+      "stars_today": 738,
+      "forks": 44978
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars": 18084,
+      "stars_today": 57,
+      "forks": 1169
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "",
+      "stars": 352180,
+      "stars_today": 352,
+      "forks": 83550
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 32921,
+      "stars_today": 538,
+      "forks": 5390
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2349,
+      "stars_today": 226,
+      "forks": 442
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 17192,
+      "stars_today": 361,
+      "forks": 2556
+    },
+    {
+      "owner": "Introduction-to-Autonomous-Robots",
+      "name": "Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars": 3020,
+      "stars_today": 488,
+      "forks": 647
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 47879,
+      "stars_today": 114,
+      "forks": 1931
+    },
+    {
+      "owner": "mikeroyal",
+      "name": "Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "stars": 20800,
+      "stars_today": 256,
+      "forks": 1053
+    },
+    {
+      "owner": "itsfatduck",
+      "name": "optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "language": "C#",
+      "stars": 3586,
+      "stars_today": 321,
+      "forks": 158
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 6127,
+      "stars_today": 1079,
+      "forks": 447
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 30184,
+      "stars_today": 395,
+      "forks": 5180
+    }
+  ]
+}
