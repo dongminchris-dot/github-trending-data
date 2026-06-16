@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-16",
+  "fetched_at": "2026-06-16T17:35:49.522713+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 448409,
+      "stars_today": 640,
+      "forks": 45027
+    },
+    {
+      "owner": "swc-project",
+      "name": "swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": 33932,
+      "stars_today": 21,
+      "forks": 1413
+    },
+    {
+      "owner": "teslamate-org",
+      "name": "teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars": 8376,
+      "stars_today": 214,
+      "forks": 955
+    },
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 123841,
+      "stars_today": 1196,
+      "forks": 6677
+    },
+    {
+      "owner": "puppeteer",
+      "name": "puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 94837,
+      "stars_today": 80,
+      "forks": 9448
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10794,
+      "stars_today": 229,
+      "forks": 3444
+    },
+    {
+      "owner": "cypress-io",
+      "name": "cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50139,
+      "stars_today": 11,
+      "forks": 3425
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2516,
+      "stars_today": 157,
+      "forks": 450
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7184,
+      "stars_today": 146,
+      "forks": 311
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 30049,
+      "stars_today": 413,
+      "forks": 3400
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 10365,
+      "stars_today": 188,
+      "forks": 604
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 8969,
+      "stars_today": 185,
+      "forks": 1988
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9178,
+      "stars_today": 326,
+      "forks": 432
+    }
+  ]
+}
