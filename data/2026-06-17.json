@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-17",
+  "fetched_at": "2026-06-17T16:26:06.243372+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 4671,
+      "stars_today": 718,
+      "forks": 452
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9543,
+      "stars_today": 422,
+      "forks": 445
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 32880,
+      "stars_today": 1154,
+      "forks": 2652
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10966,
+      "stars_today": 199,
+      "forks": 3457
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 230760,
+      "stars_today": 1109,
+      "forks": 20520
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 21638,
+      "stars_today": 712,
+      "forks": 2113
+    },
+    {
+      "owner": "RocketChat",
+      "name": "Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 45523,
+      "stars_today": 15,
+      "forks": 13656
+    },
+    {
+      "owner": "continuedev",
+      "name": "continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars": 33822,
+      "stars_today": 38,
+      "forks": 4686
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 49972,
+      "stars_today": 94,
+      "forks": 3228
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars": 127396,
+      "stars_today": 109,
+      "forks": 15175
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7572,
+      "stars_today": 465,
+      "forks": 324
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 133087,
+      "stars_today": 1849,
+      "forks": 11572
+    },
+    {
+      "owner": "yairm210",
+      "name": "Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "language": "Kotlin",
+      "stars": 10593,
+      "stars_today": 41,
+      "forks": 1841
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 449025,
+      "stars_today": 764,
+      "forks": 45081
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 36628,
+      "stars_today": 148,
+      "forks": 3697
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 23702,
+      "stars_today": 86,
+      "forks": 3009
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 32260,
+      "stars_today": 400,
+      "forks": 7697
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 5082,
+      "stars_today": 71,
+      "forks": 993
+    },
+    {
+      "owner": "alexzhang13",
+      "name": "rlm",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "language": "Python",
+      "stars": 4845,
+      "stars_today": 37,
+      "forks": 820
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 51122,
+      "stars_today": 68,
+      "forks": 4551
+    }
+  ]
+}
