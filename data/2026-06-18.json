@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-18",
+  "fetched_at": "2026-06-18T16:03:16.741982+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 22662,
+      "stars_today": 858,
+      "forks": 2182
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9902,
+      "stars_today": 369,
+      "forks": 460
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 449418,
+      "stars_today": 417,
+      "forks": 45109
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 232128,
+      "stars_today": 1435,
+      "forks": 20619
+    },
+    {
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars": 3962,
+      "stars_today": 286,
+      "forks": 424
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 6703,
+      "stars_today": 2308,
+      "forks": 545
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 11113,
+      "stars_today": 435,
+      "forks": 645
+    },
+    {
+      "owner": "withastro",
+      "name": "flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 5393,
+      "stars_today": 164,
+      "forks": 290
+    },
+    {
+      "owner": "Kilo-Org",
+      "name": "kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "stars": 21726,
+      "stars_today": 1339,
+      "forks": 2690
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 51675,
+      "stars_today": 610,
+      "forks": 4593
+    },
+    {
+      "owner": "Kong",
+      "name": "insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 38573,
+      "stars_today": 13,
+      "forks": 2286
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7828,
+      "stars_today": 247,
+      "forks": 336
+    },
+    {
+      "owner": "dotnet",
+      "name": "aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 38073,
+      "stars_today": 11,
+      "forks": 10708
+    },
+    {
+      "owner": "owainlewis",
+      "name": "awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": "",
+      "stars": 14236,
+      "stars_today": 33,
+      "forks": 2330
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 7425,
+      "stars_today": 47,
+      "forks": 1200
+    },
+    {
+      "owner": "LibreTranslate",
+      "name": "LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "stars": 14865,
+      "stars_today": 83,
+      "forks": 1528
+    }
+  ]
+}
