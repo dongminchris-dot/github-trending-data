@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-19",
+  "fetched_at": "2026-06-19T15:51:16.652000+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 7795,
+      "stars_today": 1055,
+      "forks": 601
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 23936,
+      "stars_today": 1516,
+      "forks": 2259
+    },
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 1558,
+      "stars_today": 749,
+      "forks": 172
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 56980,
+      "stars_today": 133,
+      "forks": 9124
+    },
+    {
+      "owner": "aishwaryanr",
+      "name": "awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars": 27491,
+      "stars_today": 203,
+      "forks": 5735
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars": 899,
+      "stars_today": 172,
+      "forks": 107
+    },
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 37376,
+      "stars_today": 3938,
+      "forks": 2546
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 6028,
+      "stars_today": 738,
+      "forks": 1064
+    },
+    {
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars": 4411,
+      "stars_today": 478,
+      "forks": 448
+    },
+    {
+      "owner": "withastro",
+      "name": "flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 5722,
+      "stars_today": 305,
+      "forks": 315
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 10182,
+      "stars_today": 307,
+      "forks": 466
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 233057,
+      "stars_today": 1113,
+      "forks": 20702
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 50444,
+      "stars_today": 318,
+      "forks": 3260
+    },
+    {
+      "owner": "Kong",
+      "name": "insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 38859,
+      "stars_today": 291,
+      "forks": 2297
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 7608,
+      "stars_today": 196,
+      "forks": 1218
+    }
+  ]
+}
