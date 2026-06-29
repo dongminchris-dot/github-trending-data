@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-29",
+  "fetched_at": "2026-06-29T16:26:01.054535+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 16228,
+      "stars_today": 1611,
+      "forks": 936
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 118588,
+      "stars_today": 1221,
+      "forks": 19428
+    },
+    {
+      "owner": "cupy",
+      "name": "cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars": 11749,
+      "stars_today": 352,
+      "forks": 1078
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": 4214,
+      "stars_today": 836,
+      "forks": 265
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 34212,
+      "stars_today": 191,
+      "forks": 2589
+    },
+    {
+      "owner": "commaai",
+      "name": "openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 62695,
+      "stars_today": 465,
+      "forks": 11107
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 126535,
+      "stars_today": 1971,
+      "forks": 13246
+    },
+    {
+      "owner": "logto-io",
+      "name": "logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 12468,
+      "stars_today": 77,
+      "forks": 852
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 6473,
+      "stars_today": 1397,
+      "forks": 849
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 11728,
+      "stars_today": 976,
+      "forks": 1551
+    },
+    {
+      "owner": "Unclecheng-li",
+      "name": "VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1060,
+      "stars_today": 105,
+      "forks": 164
+    },
+    {
+      "owner": "0xNyk",
+      "name": "council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars": 1688,
+      "stars_today": 323,
+      "forks": 186
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 14931,
+      "stars_today": 840,
+      "forks": 2677
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 17407,
+      "stars_today": 249,
+      "forks": 1203
+    },
+    {
+      "owner": "veracrypt",
+      "name": "VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": 10404,
+      "stars_today": 187,
+      "forks": 1229
+    }
+  ]
+}
