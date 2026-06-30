@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-30",
+  "fetched_at": "2026-06-30T15:16:32.119679+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 27787,
+      "stars_today": 395,
+      "forks": 3102
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 120308,
+      "stars_today": 1793,
+      "forks": 19662
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": 4765,
+      "stars_today": 586,
+      "forks": 293
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 8234,
+      "stars_today": 617,
+      "forks": 1376
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 12395,
+      "stars_today": 722,
+      "forks": 1593
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 7356,
+      "stars_today": 966,
+      "forks": 945
+    },
+    {
+      "owner": "Mebus",
+      "name": "cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 6041,
+      "stars_today": 18,
+      "forks": 2042
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 127189,
+      "stars_today": 740,
+      "forks": 13297
+    },
+    {
+      "owner": "google",
+      "name": "agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "stars": 3915,
+      "stars_today": 433,
+      "forks": 439
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 45776,
+      "stars_today": 336,
+      "forks": 4064
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 8806,
+      "stars_today": 467,
+      "forks": 530
+    },
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 17238,
+      "stars_today": 1229,
+      "forks": 1002
+    },
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 49022,
+      "stars_today": 180,
+      "forks": 10138
+    },
+    {
+      "owner": "facebook",
+      "name": "astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 1533,
+      "stars_today": 426,
+      "forks": 84
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15604,
+      "stars_today": 719,
+      "forks": 2720
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 242193,
+      "stars_today": 884,
+      "forks": 21491
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 8727,
+      "stars_today": 465,
+      "forks": 850
+    }
+  ]
+}
