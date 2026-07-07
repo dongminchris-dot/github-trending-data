@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-07",
+  "fetched_at": "2026-07-07T15:32:06.589281+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 9318,
+      "stars_today": 2402,
+      "forks": 3271
+    },
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 20292,
+      "stars_today": 1781,
+      "forks": 2035
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 71769,
+      "stars_today": 1311,
+      "forks": 7768
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 78227,
+      "stars_today": 1122,
+      "forks": 10532
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 52584,
+      "stars_today": 1704,
+      "forks": 8561
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8273,
+      "stars_today": 665,
+      "forks": 693
+    },
+    {
+      "owner": "AhmadIbrahiim",
+      "name": "Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "stars": 3750,
+      "stars_today": 173,
+      "forks": 969
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 16958,
+      "stars_today": 377,
+      "forks": 1385
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 4239,
+      "stars_today": 200,
+      "forks": 320
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 9528,
+      "stars_today": 802,
+      "forks": 663
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 4887,
+      "stars_today": 953,
+      "forks": 640
+    },
+    {
+      "owner": "kyutai-labs",
+      "name": "pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 5879,
+      "stars_today": 510,
+      "forks": 622
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars": 48901,
+      "stars_today": 506,
+      "forks": 4265
+    }
+  ]
+}
