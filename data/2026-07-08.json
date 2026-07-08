@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-08",
+  "fetched_at": "2026-07-08T14:58:36.344349+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 14090,
+      "stars_today": 5071,
+      "forks": 4352
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 73195,
+      "stars_today": 1322,
+      "forks": 7902
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 78907,
+      "stars_today": 793,
+      "forks": 10613
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": 7422,
+      "stars_today": 351,
+      "forks": 696
+    },
+    {
+      "owner": "prisma",
+      "name": "prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46425,
+      "stars_today": 30,
+      "forks": 2275
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 50553,
+      "stars_today": 659,
+      "forks": 4221
+    },
+    {
+      "owner": "argoproj",
+      "name": "argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": 23378,
+      "stars_today": 20,
+      "forks": 7424
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 11228,
+      "stars_today": 1712,
+      "forks": 753
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 53763,
+      "stars_today": 1226,
+      "forks": 8760
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 249528,
+      "stars_today": 999,
+      "forks": 22144
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 14269,
+      "stars_today": 685,
+      "forks": 875
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": 14793,
+      "stars_today": 2031,
+      "forks": 586
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6311,
+      "stars_today": 20,
+      "forks": 744
+    },
+    {
+      "owner": "huxingyi",
+      "name": "autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 1844,
+      "stars_today": 292,
+      "forks": 140
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 5810,
+      "stars_today": 948,
+      "forks": 696
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8783,
+      "stars_today": 555,
+      "forks": 730
+    }
+  ]
+}
