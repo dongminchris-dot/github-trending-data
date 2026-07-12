@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-12",
+  "fetched_at": "2026-07-12T14:09:56.335400+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 2429,
+      "stars_today": 444,
+      "forks": 91
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7887,
+      "stars_today": 207,
+      "forks": 982
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 20146,
+      "stars_today": 776,
+      "forks": 3536
+    },
+    {
+      "owner": "PrefectHQ",
+      "name": "prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 23029,
+      "stars_today": 55,
+      "forks": 2380
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 118289,
+      "stars_today": 549,
+      "forks": 17595
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 48180,
+      "stars_today": 464,
+      "forks": 5702
+    },
+    {
+      "owner": "home-assistant",
+      "name": "core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 88875,
+      "stars_today": 404,
+      "forks": 38060
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 33627,
+      "stars_today": 122,
+      "forks": 3374
+    },
+    {
+      "owner": "ColeMurray",
+      "name": "background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": 2170,
+      "stars_today": 9,
+      "forks": 336
+    },
+    {
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 6618,
+      "stars_today": 661,
+      "forks": 18726
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 13642,
+      "stars_today": 79,
+      "forks": 2864
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 61246,
+      "stars_today": 109,
+      "forks": 10842
+    },
+    {
+      "owner": "chen08209",
+      "name": "FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 45126,
+      "stars_today": 151,
+      "forks": 2848
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 29159,
+      "stars_today": 274,
+      "forks": 3199
+    },
+    {
+      "owner": "par274",
+      "name": "sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": 1031,
+      "stars_today": 436,
+      "forks": 64
+    },
+    {
+      "owner": "malisper",
+      "name": "pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 2296,
+      "stars_today": 518,
+      "forks": 59
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 3984,
+      "stars_today": 210,
+      "forks": 239
+    }
+  ]
+}
