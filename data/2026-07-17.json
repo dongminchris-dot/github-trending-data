@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-17",
+  "fetched_at": "2026-07-17T14:14:22.037752+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 526922,
+      "stars_today": 1070,
+      "forks": 49867
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36063,
+      "stars_today": 437,
+      "forks": 3007
+    },
+    {
+      "owner": "HenryNdubuaku",
+      "name": "maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": 6435,
+      "stars_today": 511,
+      "forks": 797
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 11674,
+      "stars_today": 1486,
+      "forks": 579
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9751,
+      "stars_today": 234,
+      "forks": 1325
+    },
+    {
+      "owner": "anthropics",
+      "name": "cwc-workshops",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1511,
+      "stars_today": 37,
+      "forks": 479
+    },
+    {
+      "owner": "PrismML-Eng",
+      "name": "Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars": 1659,
+      "stars_today": 279,
+      "forks": 162
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71511,
+      "stars_today": 11,
+      "forks": 16190
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 19631,
+      "stars_today": 57,
+      "forks": 2101
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 17726,
+      "stars_today": 152,
+      "forks": 1762
+    },
+    {
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 66222,
+      "stars_today": 431,
+      "forks": 5693
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 13177,
+      "stars_today": 280,
+      "forks": 1167
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 27206,
+      "stars_today": 528,
+      "forks": 3637
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 74595,
+      "stars_today": 1077,
+      "forks": 7529
+    }
+  ]
+}
