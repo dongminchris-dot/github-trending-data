@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-18",
+  "fetched_at": "2026-07-18T14:02:56.645830+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 12529,
+      "stars_today": 827,
+      "forks": 1315
+    },
+    {
+      "owner": "apache",
+      "name": "ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 1186,
+      "stars_today": 48,
+      "forks": 146
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36407,
+      "stars_today": 337,
+      "forks": 3020
+    },
+    {
+      "owner": "ibelick",
+      "name": "ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 4744,
+      "stars_today": 529,
+      "forks": 200
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 38921,
+      "stars_today": 232,
+      "forks": 6530
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 19984,
+      "stars_today": 356,
+      "forks": 2116
+    },
+    {
+      "owner": "elder-plinius",
+      "name": "G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": 9384,
+      "stars_today": 63,
+      "forks": 2247
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23175,
+      "stars_today": 242,
+      "forks": 2645
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 994,
+      "stars_today": 192,
+      "forks": 76
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 527967,
+      "stars_today": 1131,
+      "forks": 49958
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9306,
+      "stars_today": 48,
+      "forks": 1155
+    }
+  ]
+}
