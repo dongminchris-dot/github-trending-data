@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-19",
+  "fetched_at": "2026-07-19T14:07:32.547540+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 20641,
+      "stars_today": 551,
+      "forks": 2145
+    },
+    {
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": 18196,
+      "stars_today": 328,
+      "forks": 1435
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 39410,
+      "stars_today": 507,
+      "forks": 6592
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 43060,
+      "stars_today": 629,
+      "forks": 5269
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 1589,
+      "stars_today": 605,
+      "forks": 98
+    },
+    {
+      "owner": "andrewrabert",
+      "name": "jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "stars": 1219,
+      "stars_today": 55,
+      "forks": 103
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9901,
+      "stars_today": 111,
+      "forks": 1345
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36799,
+      "stars_today": 424,
+      "forks": 3046
+    },
+    {
+      "owner": "microsoft",
+      "name": "terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": 104043,
+      "stars_today": 13,
+      "forks": 9430
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 36610,
+      "stars_today": 62,
+      "forks": 2539
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 8699,
+      "stars_today": 199,
+      "forks": 1002
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 20171,
+      "stars_today": 136,
+      "forks": 1336
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9710,
+      "stars_today": 418,
+      "forks": 1175
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 30977,
+      "stars_today": 117,
+      "forks": 2373
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 528675,
+      "stars_today": 761,
+      "forks": 50018
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23528,
+      "stars_today": 374,
+      "forks": 2672
+    },
+    {
+      "owner": "Canner",
+      "name": "WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "language": "Python",
+      "stars": 16074,
+      "stars_today": 96,
+      "forks": 1833
+    },
+    {
+      "owner": "PKUFlyingPig",
+      "name": "cs-self-learning",
+      "description": "计算机自学指南",
+      "language": "HTML",
+      "stars": 74075,
+      "stars_today": 128,
+      "forks": 7937
+    }
+  ]
+}
