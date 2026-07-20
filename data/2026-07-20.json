@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-20",
+  "fetched_at": "2026-07-20T14:51:32.827928+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 22565,
+      "stars_today": 1876,
+      "forks": 2248
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": 9345,
+      "stars_today": 612,
+      "forks": 1067
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars": 20994,
+      "stars_today": 1343,
+      "forks": 2878
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 40282,
+      "stars_today": 846,
+      "forks": 6697
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 134472,
+      "stars_today": 949,
+      "forks": 21939
+    },
+    {
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": 18643,
+      "stars_today": 448,
+      "forks": 1462
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 43918,
+      "stars_today": 839,
+      "forks": 5339
+    },
+    {
+      "owner": "topoteretes",
+      "name": "cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": 28632,
+      "stars_today": 303,
+      "forks": 2733
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 13993,
+      "stars_today": 865,
+      "forks": 1465
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 5521,
+      "stars_today": 222,
+      "forks": 619
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 10125,
+      "stars_today": 405,
+      "forks": 1213
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 36955,
+      "stars_today": 330,
+      "forks": 2563
+    },
+    {
+      "owner": "PrefectHQ",
+      "name": "fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "stars": 26417,
+      "stars_today": 77,
+      "forks": 2156
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 2297,
+      "stars_today": 695,
+      "forks": 141
+    },
+    {
+      "owner": "tokio-rs",
+      "name": "topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": 1342,
+      "stars_today": 439,
+      "forks": 37
+    },
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 133616,
+      "stars_today": 144,
+      "forks": 7555
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 4193,
+      "stars_today": 1719,
+      "forks": 290
+    },
+    {
+      "owner": "microsoft",
+      "name": "Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 1591,
+      "stars_today": 487,
+      "forks": 224
+    },
+    {
+      "owner": "handy-computer",
+      "name": "transcribe.cpp",
+      "description": "ggml speech-to-text inference for 16+ model families",
+      "language": "C++",
+      "stars": 1094,
+      "stars_today": 401,
+      "forks": 28
+    },
+    {
+      "owner": "moonshine-ai",
+      "name": "moonshine",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "language": "C++",
+      "stars": 9534,
+      "stars_today": 264,
+      "forks": 508
+    }
+  ]
+}
