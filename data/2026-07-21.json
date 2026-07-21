@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-21",
+  "fetched_at": "2026-07-21T14:36:54.530618+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 63924,
+      "stars_today": 1167,
+      "forks": 9995
+    },
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 13696,
+      "stars_today": 4434,
+      "forks": 1299
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 24278,
+      "stars_today": 1921,
+      "forks": 2335
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars": 6198,
+      "stars_today": 1846,
+      "forks": 247
+    },
+    {
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 8860,
+      "stars_today": 297,
+      "forks": 1008
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": 10110,
+      "stars_today": 835,
+      "forks": 1116
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 5652,
+      "stars_today": 1556,
+      "forks": 393
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 37349,
+      "stars_today": 416,
+      "forks": 2601
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 6347,
+      "stars_today": 850,
+      "forks": 693
+    },
+    {
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 4666,
+      "stars_today": 28,
+      "forks": 2165
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 30017,
+      "stars_today": 247,
+      "forks": 1831
+    },
+    {
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 36883,
+      "stars_today": 88,
+      "forks": 1858
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 69643,
+      "stars_today": 1195,
+      "forks": 7816
+    },
+    {
+      "owner": "DioxusLabs",
+      "name": "dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 37492,
+      "stars_today": 261,
+      "forks": 1767
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": 12109,
+      "stars_today": 14,
+      "forks": 1730
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars": 22910,
+      "stars_today": 2040,
+      "forks": 3072
+    },
+    {
+      "owner": "schollz",
+      "name": "croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 36520,
+      "stars_today": 396,
+      "forks": 1443
+    },
+    {
+      "owner": "microsoft",
+      "name": "Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 1915,
+      "stars_today": 355,
+      "forks": 240
+    },
+    {
+      "owner": "dottxt-ai",
+      "name": "outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars": 14682,
+      "stars_today": 49,
+      "forks": 792
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 2930,
+      "stars_today": 641,
+      "forks": 180
+    }
+  ]
+}
