@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-22",
+  "fetched_at": "2026-07-22T14:36:26.948511+00:00",
+  "count": 19,
+  "repositories": [
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 67870,
+      "stars_today": 4131,
+      "forks": 10428
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 83190,
+      "stars_today": 1114,
+      "forks": 11189
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 7785,
+      "stars_today": 1682,
+      "forks": 340
+    },
+    {
+      "owner": "schollz",
+      "name": "croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 37285,
+      "stars_today": 737,
+      "forks": 1475
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 4127,
+      "stars_today": 58,
+      "forks": 295
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 70374,
+      "stars_today": 766,
+      "forks": 7868
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 45480,
+      "stars_today": 565,
+      "forks": 5557
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 24549,
+      "stars_today": 1648,
+      "forks": 3281
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 32469,
+      "stars_today": 134,
+      "forks": 5584
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 68564,
+      "stars_today": 155,
+      "forks": 7789
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 6944,
+      "stars_today": 1304,
+      "forks": 508
+    },
+    {
+      "owner": "agegr",
+      "name": "pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 1972,
+      "stars_today": 314,
+      "forks": 300
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 41933,
+      "stars_today": 688,
+      "forks": 6980
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 25107,
+      "stars_today": 872,
+      "forks": 2381
+    },
+    {
+      "owner": "dreamhunter2333",
+      "name": "cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "stars": 10724,
+      "stars_today": 60,
+      "forks": 7267
+    },
+    {
+      "owner": "DioxusLabs",
+      "name": "dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 37905,
+      "stars_today": 411,
+      "forks": 1781
+    },
+    {
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 37204,
+      "stars_today": 353,
+      "forks": 1869
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8183,
+      "stars_today": 96,
+      "forks": 580
+    },
+    {
+      "owner": "dottxt-ai",
+      "name": "outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars": 15024,
+      "stars_today": 362,
+      "forks": 802
+    }
+  ]
+}
