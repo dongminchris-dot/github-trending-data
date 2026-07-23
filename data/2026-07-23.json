@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-23",
+  "fetched_at": "2026-07-23T14:51:58.487417+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "block",
+      "name": "buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 5700,
+      "stars_today": 3252,
+      "forks": 436
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 70856,
+      "stars_today": 3196,
+      "forks": 10725
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 32884,
+      "stars_today": 398,
+      "forks": 5634
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8738,
+      "stars_today": 563,
+      "forks": 605
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": 1362,
+      "stars_today": 219,
+      "forks": 80
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 70915,
+      "stars_today": 599,
+      "forks": 7910
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 26509,
+      "stars_today": 1925,
+      "forks": 3476
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 69203,
+      "stars_today": 637,
+      "forks": 7833
+    },
+    {
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9801,
+      "stars_today": 621,
+      "forks": 1083
+    },
+    {
+      "owner": "agegr",
+      "name": "pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2271,
+      "stars_today": 315,
+      "forks": 320
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 11187,
+      "stars_today": 162,
+      "forks": 778
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 84834,
+      "stars_today": 1726,
+      "forks": 11329
+    },
+    {
+      "owner": "Julian-adv",
+      "name": "OpenMMO",
+      "description": "",
+      "language": "Rust",
+      "stars": 1250,
+      "stars_today": 395,
+      "forks": 163
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 4567,
+      "stars_today": 475,
+      "forks": 310
+    },
+    {
+      "owner": "Automattic",
+      "name": "harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 11960,
+      "stars_today": 590,
+      "forks": 443
+    },
+    {
+      "owner": "jellyfin",
+      "name": "jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 54624,
+      "stars_today": 66,
+      "forks": 5160
+    }
+  ]
+}
