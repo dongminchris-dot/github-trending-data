@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-25",
+  "fetched_at": "2026-07-25T14:13:23.947488+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "block",
+      "name": "buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 11112,
+      "stars_today": 2506,
+      "forks": 868
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 12663,
+      "stars_today": 1066,
+      "forks": 866
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 3196,
+      "stars_today": 986,
+      "forks": 156
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70383,
+      "stars_today": 574,
+      "forks": 7927
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 49724,
+      "stars_today": 144,
+      "forks": 5889
+    },
+    {
+      "owner": "Automattic",
+      "name": "harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 13246,
+      "stars_today": 503,
+      "forks": 496
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33667,
+      "stars_today": 319,
+      "forks": 5693
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 260855,
+      "stars_today": 600,
+      "forks": 23270
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9540,
+      "stars_today": 357,
+      "forks": 641
+    },
+    {
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 28201,
+      "stars_today": 1695,
+      "forks": 4035
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 187728,
+      "stars_today": 1743,
+      "forks": 16127
+    },
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 12038,
+      "stars_today": 731,
+      "forks": 889
+    },
+    {
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": 4591,
+      "stars_today": 424,
+      "forks": 432
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 45264,
+      "stars_today": 405,
+      "forks": 5411
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 14175,
+      "stars_today": 89,
+      "forks": 1265
+    },
+    {
+      "owner": "OtterMind",
+      "name": "Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": 26516,
+      "stars_today": 364,
+      "forks": 2892
+    },
+    {
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15143,
+      "stars_today": 75,
+      "forks": 1610
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 233118,
+      "stars_today": 364,
+      "forks": 35530
+    }
+  ]
+}
