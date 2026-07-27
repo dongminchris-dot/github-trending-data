@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-27",
+  "fetched_at": "2026-07-27T15:26:56.044913+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 31789,
+      "stars_today": 2344,
+      "forks": 4996
+    },
+    {
+      "owner": "amnezia-vpn",
+      "name": "amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars": 13651,
+      "stars_today": 515,
+      "forks": 1020
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 43825,
+      "stars_today": 554,
+      "forks": 4384
+    },
+    {
+      "owner": "yorukot",
+      "name": "superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 20671,
+      "stars_today": 600,
+      "forks": 661
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 58040,
+      "stars_today": 349,
+      "forks": 11571
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 51270,
+      "stars_today": 849,
+      "forks": 3019
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 34436,
+      "stars_today": 442,
+      "forks": 5787
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 14503,
+      "stars_today": 980,
+      "forks": 985
+    },
+    {
+      "owner": "jenkinsci",
+      "name": "jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 25827,
+      "stars_today": 179,
+      "forks": 9674
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 10802,
+      "stars_today": 412,
+      "forks": 1122
+    },
+    {
+      "owner": "vudovn",
+      "name": "ag-kit",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 7882,
+      "stars_today": 5,
+      "forks": 1505
+    },
+    {
+      "owner": "apache",
+      "name": "cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "stars": 9910,
+      "stars_today": 7,
+      "forks": 3998
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 54009,
+      "stars_today": 221,
+      "forks": 4687
+    },
+    {
+      "owner": "ocornut",
+      "name": "imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": 75142,
+      "stars_today": 64,
+      "forks": 11967
+    }
+  ]
+}
