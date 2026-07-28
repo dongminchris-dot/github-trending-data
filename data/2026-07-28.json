@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-28",
+  "fetched_at": "2026-07-28T15:02:35.861368+00:00",
+  "count": 12,
+  "repositories": [
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 18383,
+      "stars_today": 415,
+      "forks": 2509
+    },
+    {
+      "owner": "jenkinsci",
+      "name": "jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 26009,
+      "stars_today": 180,
+      "forks": 9683
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 44572,
+      "stars_today": 796,
+      "forks": 4434
+    },
+    {
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15596,
+      "stars_today": 185,
+      "forks": 1651
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 234551,
+      "stars_today": 458,
+      "forks": 35744
+    },
+    {
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 6917,
+      "stars_today": 177,
+      "forks": 935
+    },
+    {
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 10909,
+      "stars_today": 366,
+      "forks": 1309
+    },
+    {
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 3131,
+      "stars_today": 420,
+      "forks": 375
+    },
+    {
+      "owner": "paperswithbacktest",
+      "name": "awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 9306,
+      "stars_today": 402,
+      "forks": 1283
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars": 5040,
+      "stars_today": 17,
+      "forks": 831
+    },
+    {
+      "owner": "yorukot",
+      "name": "superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 21260,
+      "stars_today": 660,
+      "forks": 684
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 11767,
+      "stars_today": 989,
+      "forks": 1188
+    }
+  ]
+}
