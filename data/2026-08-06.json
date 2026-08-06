@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-06",
+  "fetched_at": "2026-08-06T14:57:53.081581+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 15937,
+      "stars_today": 1053,
+      "forks": 1430
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 82490,
+      "stars_today": 588,
+      "forks": 8853
+    },
+    {
+      "owner": "cloudflare",
+      "name": "computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": 4488,
+      "stars_today": 2690,
+      "forks": 217
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 206296,
+      "stars_today": 1695,
+      "forks": 17814
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 22904,
+      "stars_today": 123,
+      "forks": 1758
+    },
+    {
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": 2666,
+      "stars_today": 854,
+      "forks": 196
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51571,
+      "stars_today": 9,
+      "forks": 11156
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 76974,
+      "stars_today": 157,
+      "forks": 17390
+    },
+    {
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 185892,
+      "stars_today": 28,
+      "forks": 46051
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 28876,
+      "stars_today": 232,
+      "forks": 2671
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": 32170,
+      "stars_today": 894,
+      "forks": 2079
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 267859,
+      "stars_today": 858,
+      "forks": 23934
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 12121,
+      "stars_today": 1194,
+      "forks": 813
+    }
+  ]
+}
