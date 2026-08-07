@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-07",
+  "fetched_at": "2026-08-07T13:54:17.029037+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 5387,
+      "stars_today": 2271,
+      "forks": 433
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 83495,
+      "stars_today": 1131,
+      "forks": 8934
+    },
+    {
+      "owner": "cloudflare",
+      "name": "computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": 5280,
+      "stars_today": 894,
+      "forks": 267
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 208234,
+      "stars_today": 2180,
+      "forks": 17968
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 268532,
+      "stars_today": 794,
+      "forks": 23987
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23381,
+      "stars_today": 544,
+      "forks": 1790
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 2192,
+      "stars_today": 118,
+      "forks": 296
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 70295,
+      "stars_today": 126,
+      "forks": 10981
+    },
+    {
+      "owner": "chenyme",
+      "name": "grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars": 7087,
+      "stars_today": 43,
+      "forks": 2159
+    },
+    {
+      "owner": "jdx",
+      "name": "mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": 31979,
+      "stars_today": 258,
+      "forks": 1325
+    },
+    {
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 186217,
+      "stars_today": 363,
+      "forks": 46056
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51711,
+      "stars_today": 156,
+      "forks": 11168
+    },
+    {
+      "owner": "unclebob",
+      "name": "swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "stars": 1720,
+      "stars_today": 85,
+      "forks": 190
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 1975,
+      "stars_today": 546,
+      "forks": 53
+    },
+    {
+      "owner": "K2SOsint",
+      "name": "Legendary_OSINT",
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": "",
+      "stars": 1185,
+      "stars_today": 64,
+      "forks": 176
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars": 19412,
+      "stars_today": 427,
+      "forks": 630
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16021,
+      "stars_today": 305,
+      "forks": 1275
+    }
+  ]
+}
