@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-08",
+  "fetched_at": "2026-08-08T13:29:19.702413+00:00",
+  "count": 12,
+  "repositories": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 7757,
+      "stars_today": 2483,
+      "forks": 659
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 84229,
+      "stars_today": 778,
+      "forks": 8995
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 77706,
+      "stars_today": 591,
+      "forks": 17549
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16485,
+      "stars_today": 481,
+      "forks": 1304
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 209501,
+      "stars_today": 1354,
+      "forks": 18101
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23835,
+      "stars_today": 467,
+      "forks": 1824
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 96174,
+      "stars_today": 126,
+      "forks": 18619
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51800,
+      "stars_today": 93,
+      "forks": 11177
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 64869,
+      "stars_today": 42,
+      "forks": 3098
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 2397,
+      "stars_today": 432,
+      "forks": 67
+    },
+    {
+      "owner": "litu54",
+      "name": "DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": "",
+      "stars": 595,
+      "stars_today": 59,
+      "forks": 853
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 49715,
+      "stars_today": 140,
+      "forks": 8237
+    }
+  ]
+}
