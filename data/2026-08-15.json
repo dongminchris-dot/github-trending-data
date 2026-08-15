@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-15",
+  "fetched_at": "2026-08-15T13:12:17.942567+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 3741,
+      "stars_today": 616,
+      "forks": 181
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 18031,
+      "stars_today": 1619,
+      "forks": 1077
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 2873,
+      "stars_today": 152,
+      "forks": 230
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 5854,
+      "stars_today": 551,
+      "forks": 394
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 71717,
+      "stars_today": 435,
+      "forks": 6472
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 459378,
+      "stars_today": 2476,
+      "forks": 50783
+    },
+    {
+      "owner": "MakazhanAlpamys",
+      "name": "Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "stars": 1438,
+      "stars_today": 303,
+      "forks": 244
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 128866,
+      "stars_today": 901,
+      "forks": 11519
+    },
+    {
+      "owner": "megadose",
+      "name": "holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 12999,
+      "stars_today": 389,
+      "forks": 1731
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars": 10165,
+      "stars_today": 311,
+      "forks": 688
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 39318,
+      "stars_today": 553,
+      "forks": 5278
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 47162,
+      "stars_today": 100,
+      "forks": 4382
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 10638,
+      "stars_today": 546,
+      "forks": 536
+    }
+  ]
+}
