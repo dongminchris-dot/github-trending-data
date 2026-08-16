@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-16",
+  "fetched_at": "2026-08-16T13:15:44.154240+00:00",
+  "count": 8,
+  "repositories": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 4450,
+      "stars_today": 719,
+      "forks": 224
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 25115,
+      "stars_today": 225,
+      "forks": 2557
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72278,
+      "stars_today": 580,
+      "forks": 6509
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 83551,
+      "stars_today": 134,
+      "forks": 8264
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 1563,
+      "stars_today": 41,
+      "forks": 165
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 460899,
+      "stars_today": 1583,
+      "forks": 50917
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 39764,
+      "stars_today": 446,
+      "forks": 5314
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 6305,
+      "stars_today": 447,
+      "forks": 419
+    }
+  ]
+}
