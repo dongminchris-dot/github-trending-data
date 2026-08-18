@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-18",
+  "fetched_at": "2026-08-18T13:26:05.927791+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 107642,
+      "stars_today": 2306,
+      "forks": 16324
+    },
+    {
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 1702,
+      "stars_today": 256,
+      "forks": 211
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2482,
+      "stars_today": 207,
+      "forks": 215
+    },
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29084,
+      "stars_today": 239,
+      "forks": 2289
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 28837,
+      "stars_today": 726,
+      "forks": 3471
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 463809,
+      "stars_today": 1907,
+      "forks": 51262
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26203,
+      "stars_today": 710,
+      "forks": 2671
+    },
+    {
+      "owner": "agalwood",
+      "name": "Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53441,
+      "stars_today": 607,
+      "forks": 4941
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24174,
+      "stars_today": 204,
+      "forks": 5570
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19210,
+      "stars_today": 366,
+      "forks": 1652
+    },
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 38922,
+      "stars_today": 556,
+      "forks": 4292
+    },
+    {
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 15776,
+      "stars_today": 543,
+      "forks": 794
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 84517,
+      "stars_today": 682,
+      "forks": 8337
+    }
+  ]
+}
