@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-19",
+  "fetched_at": "2026-08-19T13:27:20.202442+00:00",
+  "count": 12,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 109750,
+      "stars_today": 2221,
+      "forks": 16670
+    },
+    {
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2469,
+      "stars_today": 797,
+      "forks": 293
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 3071,
+      "stars_today": 609,
+      "forks": 254
+    },
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29847,
+      "stars_today": 803,
+      "forks": 2321
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29568,
+      "stars_today": 767,
+      "forks": 3513
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 465454,
+      "stars_today": 1717,
+      "forks": 51385
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26675,
+      "stars_today": 473,
+      "forks": 2711
+    },
+    {
+      "owner": "agalwood",
+      "name": "Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53981,
+      "stars_today": 561,
+      "forks": 4958
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24520,
+      "stars_today": 350,
+      "forks": 5619
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19674,
+      "stars_today": 467,
+      "forks": 1683
+    },
+    {
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 16126,
+      "stars_today": 421,
+      "forks": 802
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 85144,
+      "stars_today": 647,
+      "forks": 8382
+    }
+  ]
+}
