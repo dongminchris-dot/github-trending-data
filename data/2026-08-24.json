@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-24",
+  "fetched_at": "2026-08-24T13:33:01.932078+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 48508,
+      "stars_today": 889,
+      "forks": 7938
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 116713,
+      "stars_today": 1990,
+      "forks": 17797
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 33508,
+      "stars_today": 378,
+      "forks": 11750
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 206172,
+      "stars_today": 491,
+      "forks": 21064
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 57690,
+      "stars_today": 390,
+      "forks": 5474
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 235486,
+      "stars_today": 899,
+      "forks": 47474
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": 1215,
+      "stars_today": 490,
+      "forks": 145
+    },
+    {
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 15531,
+      "stars_today": 1102,
+      "forks": 419
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2641,
+      "stars_today": 408,
+      "forks": 288
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 38847,
+      "stars_today": 293,
+      "forks": 3268
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 387317,
+      "stars_today": 160,
+      "forks": 81331
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": 11532,
+      "stars_today": 272,
+      "forks": 1314
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 48082,
+      "stars_today": 330,
+      "forks": 8477
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 29714,
+      "stars_today": 1055,
+      "forks": 3006
+    },
+    {
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 19617,
+      "stars_today": 153,
+      "forks": 2861
+    },
+    {
+      "owner": "dani-garcia",
+      "name": "vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": 66043,
+      "stars_today": 176,
+      "forks": 3133
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 14927,
+      "stars_today": 2442,
+      "forks": 1592
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "",
+      "stars": 31633,
+      "stars_today": 600,
+      "forks": 3379
+    },
+    {
+      "owner": "vorssaint",
+      "name": "vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
+      "stars": 10086,
+      "stars_today": 2530,
+      "forks": 330
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": 37037,
+      "stars_today": 515,
+      "forks": 3684
+    }
+  ]
+}
