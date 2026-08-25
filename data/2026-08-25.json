@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-25",
+  "fetched_at": "2026-08-25T13:31:12.479080+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 16636,
+      "stars_today": 1698,
+      "forks": 1736
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": 1558,
+      "stars_today": 350,
+      "forks": 167
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 34775,
+      "stars_today": 1266,
+      "forks": 12027
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 3149,
+      "stars_today": 538,
+      "forks": 318
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 99901,
+      "stars_today": 191,
+      "forks": 19318
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": 12363,
+      "stars_today": 810,
+      "forks": 1365
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 48635,
+      "stars_today": 572,
+      "forks": 8533
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": 37557,
+      "stars_today": 541,
+      "forks": 3720
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 30786,
+      "stars_today": 1080,
+      "forks": 3127
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars": 134024,
+      "stars_today": 161,
+      "forks": 19723
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 206944,
+      "stars_today": 828,
+      "forks": 21124
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 117851,
+      "stars_today": 1183,
+      "forks": 17971
+    },
+    {
+      "owner": "marin-community",
+      "name": "marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 1936,
+      "stars_today": 214,
+      "forks": 185
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 110391,
+      "stars_today": 944,
+      "forks": 6073
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 33958,
+      "stars_today": 47,
+      "forks": 3863
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 2587,
+      "stars_today": 142,
+      "forks": 116
+    }
+  ]
+}
