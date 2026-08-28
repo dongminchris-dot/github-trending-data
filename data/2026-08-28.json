@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-28",
+  "fetched_at": "2026-08-28T22:35:36.376587+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "tt-a1i",
+      "name": "archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 27161,
+      "stars_today": 4561,
+      "forks": 1721
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 36503,
+      "stars_today": 720,
+      "forks": 3473
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 35000,
+      "stars_today": 457,
+      "forks": 3935
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 10964,
+      "stars_today": 3398,
+      "forks": 2226
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 46144,
+      "stars_today": 189,
+      "forks": 5100
+    },
+    {
+      "owner": "JetBrains",
+      "name": "go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": 2572,
+      "stars_today": 574,
+      "forks": 78
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 53251,
+      "stars_today": 1144,
+      "forks": 6642
+    },
+    {
+      "owner": "abi",
+      "name": "screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 75518,
+      "stars_today": 309,
+      "forks": 9217
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 5937,
+      "stars_today": 257,
+      "forks": 478
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 24210,
+      "stars_today": 1687,
+      "forks": 2393
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": 2621,
+      "stars_today": 986,
+      "forks": 69
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 73308,
+      "stars_today": 205,
+      "forks": 8012
+    },
+    {
+      "owner": "swoole",
+      "name": "typephp",
+      "description": "Compile PHP to Native Binaries",
+      "language": "PHP",
+      "stars": 800,
+      "stars_today": 188,
+      "forks": 38
+    },
+    {
+      "owner": "marin-community",
+      "name": "marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 2883,
+      "stars_today": 236,
+      "forks": 239
+    },
+    {
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 21586,
+      "stars_today": 477,
+      "forks": 3057
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 49954,
+      "stars_today": 61,
+      "forks": 3502
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 50598,
+      "stars_today": 703,
+      "forks": 8778
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 115290,
+      "stars_today": 1396,
+      "forks": 6305
+    },
+    {
+      "owner": "google",
+      "name": "googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 39166,
+      "stars_today": 156,
+      "forks": 10871
+    },
+    {
+      "owner": "livekit",
+      "name": "agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 13316,
+      "stars_today": 14,
+      "forks": 3630
+    }
+  ]
+}
