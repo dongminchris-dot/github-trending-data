@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-01",
+  "fetched_at": "2026-09-01T16:52:49.703603+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 31132,
+      "stars_today": 37,
+      "forks": 8938
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 44738,
+      "stars_today": 161,
+      "forks": 3542
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 29202,
+      "stars_today": 3122,
+      "forks": 4947
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 23688,
+      "stars_today": 583,
+      "forks": 2672
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 56885,
+      "stars_today": 1005,
+      "forks": 7406
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 13459,
+      "stars_today": 745,
+      "forks": 2027
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 92459,
+      "stars_today": 74,
+      "forks": 7612
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 17785,
+      "stars_today": 545,
+      "forks": 1215
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 22739,
+      "stars_today": 509,
+      "forks": 2805
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 41380,
+      "stars_today": 914,
+      "forks": 3816
+    },
+    {
+      "owner": "handsomestWei",
+      "name": "patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 6651,
+      "stars_today": 502,
+      "forks": 758
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "",
+      "stars": 112469,
+      "stars_today": 487,
+      "forks": 12763
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 7499,
+      "stars_today": 21,
+      "forks": 1312
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245623,
+      "stars_today": 621,
+      "forks": 37079
+    },
+    {
+      "owner": "unclecode",
+      "name": "crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 80761,
+      "stars_today": 179,
+      "forks": 8348
+    }
+  ]
+}
