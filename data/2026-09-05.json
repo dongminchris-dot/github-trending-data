@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-05",
+  "fetched_at": "2026-09-05T15:29:48.868100+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 251822,
+      "stars_today": 2666,
+      "forks": 21274
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 249335,
+      "stars_today": 1325,
+      "forks": 37564
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 127421,
+      "stars_today": 2813,
+      "forks": 6816
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 241830,
+      "stars_today": 573,
+      "forks": 49656
+    },
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25547,
+      "stars_today": 133,
+      "forks": 3040
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 174420,
+      "stars_today": 472,
+      "forks": 20656
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 31479,
+      "stars_today": 852,
+      "forks": 2031
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 204501,
+      "stars_today": 725,
+      "forks": 26681
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 70596,
+      "stars_today": 127,
+      "forks": 8407
+    },
+    {
+      "owner": "humanlayer",
+      "name": "skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 2563,
+      "stars_today": 1141,
+      "forks": 73
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 43231,
+      "stars_today": 988,
+      "forks": 3632
+    },
+    {
+      "owner": "BraveOPotato",
+      "name": "FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": 2722,
+      "stars_today": 50,
+      "forks": 192
+    },
+    {
+      "owner": "WorldFlowAI",
+      "name": "everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "stars": 2219,
+      "stars_today": 87,
+      "forks": 356
+    },
+    {
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 2950,
+      "stars_today": 686,
+      "forks": 211
+    },
+    {
+      "owner": "bikini",
+      "name": "exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": 4634,
+      "stars_today": 232,
+      "forks": 1251
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "stars": 94865,
+      "stars_today": 17,
+      "forks": 10421
+    }
+  ]
+}
