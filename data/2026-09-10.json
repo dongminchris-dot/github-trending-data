@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-10",
+  "fetched_at": "2026-09-10T16:38:49.513505+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 37380,
+      "stars_today": 3854,
+      "forks": 2166
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 23095,
+      "stars_today": 1588,
+      "forks": 4842
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 284527,
+      "stars_today": 731,
+      "forks": 25444
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 1447,
+      "stars_today": 299,
+      "forks": 246
+    },
+    {
+      "owner": "Tencent",
+      "name": "teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": 3641,
+      "stars_today": 837,
+      "forks": 231
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 35603,
+      "stars_today": 247,
+      "forks": 2259
+    },
+    {
+      "owner": "liquidslr",
+      "name": "system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "",
+      "stars": 18567,
+      "stars_today": 891,
+      "forks": 3464
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 37476,
+      "stars_today": 1287,
+      "forks": 2377
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "language": "JavaScript",
+      "stars": 30737,
+      "stars_today": 957,
+      "forks": 2979
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4307,
+      "stars_today": 87,
+      "forks": 512
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "TypeScript",
+      "stars": 63985,
+      "stars_today": 591,
+      "forks": 8963
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 27347,
+      "stars_today": 130,
+      "forks": 2999
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 35109,
+      "stars_today": 806,
+      "forks": 5615
+    },
+    {
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 17934,
+      "stars_today": 94,
+      "forks": 2095
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 30997,
+      "stars_today": 175,
+      "forks": 2651
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2169,
+      "stars_today": 636,
+      "forks": 186
+    }
+  ]
+}
