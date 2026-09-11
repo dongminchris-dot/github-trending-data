@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-11",
+  "fetched_at": "2026-09-11T16:43:54.895651+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 40793,
+      "stars_today": 3440,
+      "forks": 2327
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 26385,
+      "stars_today": 3642,
+      "forks": 5392
+    },
+    {
+      "owner": "nab138",
+      "name": "iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": 2843,
+      "stars_today": 36,
+      "forks": 198
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 1191,
+      "stars_today": 126,
+      "forks": 475
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2684,
+      "stars_today": 545,
+      "forks": 213
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4659,
+      "stars_today": 354,
+      "forks": 528
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 2028,
+      "stars_today": 627,
+      "forks": 275
+    },
+    {
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 18578,
+      "stars_today": 640,
+      "forks": 2125
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 285207,
+      "stars_today": 731,
+      "forks": 25506
+    },
+    {
+      "owner": "Sonarr",
+      "name": "Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 15662,
+      "stars_today": 174,
+      "forks": 1945
+    },
+    {
+      "owner": "jihe520",
+      "name": "MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 4796,
+      "stars_today": 132,
+      "forks": 388
+    },
+    {
+      "owner": "p1neappleXpress",
+      "name": "OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": 995,
+      "stars_today": 201,
+      "forks": 83
+    },
+    {
+      "owner": "jordan-gibbs",
+      "name": "hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars": 2381,
+      "stars_today": 118,
+      "forks": 247
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 1142,
+      "stars_today": 156,
+      "forks": 79
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 135630,
+      "stars_today": 985,
+      "forks": 12193
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars": 23435,
+      "stars_today": 83,
+      "forks": 2928
+    }
+  ]
+}
