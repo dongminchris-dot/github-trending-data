@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-15",
+  "fetched_at": "2026-09-15T17:14:20.889155+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 27879,
+      "stars_today": 2751,
+      "forks": 2013
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 33387,
+      "stars_today": 2035,
+      "forks": 3506
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 6442,
+      "stars_today": 632,
+      "forks": 1013
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 30583,
+      "stars_today": 2081,
+      "forks": 3674
+    },
+    {
+      "owner": "Homebrew",
+      "name": "BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars": 1200,
+      "stars_today": 356,
+      "forks": 25
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 2695,
+      "stars_today": 205,
+      "forks": 667
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 3124,
+      "stars_today": 593,
+      "forks": 215
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 76513,
+      "stars_today": 755,
+      "forks": 8437
+    },
+    {
+      "owner": "danny-avila",
+      "name": "LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": 43704,
+      "stars_today": 261,
+      "forks": 9017
+    },
+    {
+      "owner": "pacifio",
+      "name": "atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 4530,
+      "stars_today": 102,
+      "forks": 277
+    },
+    {
+      "owner": "MG1937",
+      "name": "ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars": 1079,
+      "stars_today": 122,
+      "forks": 189
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 94624,
+      "stars_today": 354,
+      "forks": 10052
+    },
+    {
+      "owner": "tonhowtf",
+      "name": "omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": 12668,
+      "stars_today": 318,
+      "forks": 1092
+    },
+    {
+      "owner": "earendil-works",
+      "name": "pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 105566,
+      "stars_today": 437,
+      "forks": 13273
+    }
+  ]
+}
