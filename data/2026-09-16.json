@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-16",
+  "fetched_at": "2026-09-16T17:15:11.023343+00:00",
+  "count": 21,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 31137,
+      "stars_today": 3215,
+      "forks": 2224
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 6351,
+      "stars_today": 1249,
+      "forks": 379
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 34790,
+      "stars_today": 1532,
+      "forks": 3647
+    },
+    {
+      "owner": "abue-ammar",
+      "name": "tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": 5422,
+      "stars_today": 1136,
+      "forks": 257
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 54201,
+      "stars_today": 409,
+      "forks": 6779
+    },
+    {
+      "owner": "Lakr233",
+      "name": "vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars": 13256,
+      "stars_today": 444,
+      "forks": 1583
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24210,
+      "stars_today": 96,
+      "forks": 2918
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 7153,
+      "stars_today": 771,
+      "forks": 1081
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 30711,
+      "stars_today": 50,
+      "forks": 3207
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 77552,
+      "stars_today": 1059,
+      "forks": 8571
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 145350,
+      "stars_today": 155,
+      "forks": 23447
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 50501,
+      "stars_today": 292,
+      "forks": 4808
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 4150,
+      "stars_today": 1036,
+      "forks": 262
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 109509,
+      "stars_today": 118,
+      "forks": 14004
+    },
+    {
+      "owner": "rlaope",
+      "name": "oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars": 2468,
+      "stars_today": 74,
+      "forks": 182
+    },
+    {
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 25073,
+      "stars_today": 1201,
+      "forks": 3463
+    },
+    {
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 5644,
+      "stars_today": 383,
+      "forks": 729
+    },
+    {
+      "owner": "multimodal-art-projection",
+      "name": "YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 9254,
+      "stars_today": 370,
+      "forks": 1002
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 95239,
+      "stars_today": 656,
+      "forks": 10096
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": 68229,
+      "stars_today": 102,
+      "forks": 7379
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 259931,
+      "stars_today": 1046,
+      "forks": 38903
+    }
+  ]
+}
