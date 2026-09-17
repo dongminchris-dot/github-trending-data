@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-17",
+  "fetched_at": "2026-09-17T17:14:10.301636+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 34274,
+      "stars_today": 3290,
+      "forks": 2432
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 10084,
+      "stars_today": 3606,
+      "forks": 533
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 95971,
+      "stars_today": 680,
+      "forks": 10138
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 3953,
+      "stars_today": 1350,
+      "forks": 281
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 5003,
+      "stars_today": 940,
+      "forks": 296
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 145880,
+      "stars_today": 538,
+      "forks": 23546
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 78342,
+      "stars_today": 912,
+      "forks": 8672
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24483,
+      "stars_today": 287,
+      "forks": 2935
+    },
+    {
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 26166,
+      "stars_today": 1123,
+      "forks": 3544
+    },
+    {
+      "owner": "abue-ammar",
+      "name": "tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": 6031,
+      "stars_today": 738,
+      "forks": 282
+    },
+    {
+      "owner": "cilium",
+      "name": "cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 25322,
+      "stars_today": 153,
+      "forks": 4070
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 54849,
+      "stars_today": 665,
+      "forks": 6811
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 261069,
+      "stars_today": 1173,
+      "forks": 39062
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 50793,
+      "stars_today": 327,
+      "forks": 4825
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 35581,
+      "stars_today": 872,
+      "forks": 3734
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 3329,
+      "stars_today": 386,
+      "forks": 346
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 7626,
+      "stars_today": 469,
+      "forks": 1114
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": 68640,
+      "stars_today": 381,
+      "forks": 7409
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 14823,
+      "stars_today": 204,
+      "forks": 1482
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 204956,
+      "stars_today": 319,
+      "forks": 60739
+    }
+  ]
+}
