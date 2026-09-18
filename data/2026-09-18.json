@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-18",
+  "fetched_at": "2026-09-18T16:41:13.924396+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 12724,
+      "stars_today": 3019,
+      "forks": 681
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146159,
+      "stars_today": 442,
+      "forks": 23729
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 36403,
+      "stars_today": 2724,
+      "forks": 2596
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 261742,
+      "stars_today": 965,
+      "forks": 39170
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 5089,
+      "stars_today": 1319,
+      "forks": 354
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96239,
+      "stars_today": 677,
+      "forks": 10174
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 3863,
+      "stars_today": 571,
+      "forks": 400
+    },
+    {
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": 69194,
+      "stars_today": 298,
+      "forks": 4744
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 31126,
+      "stars_today": 177,
+      "forks": 3236
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24780,
+      "stars_today": 300,
+      "forks": 2961
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 30139,
+      "stars_today": 140,
+      "forks": 2635
+    },
+    {
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 6389,
+      "stars_today": 64,
+      "forks": 2710
+    },
+    {
+      "owner": "rustfs",
+      "name": "rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": 33044,
+      "stars_today": 298,
+      "forks": 1481
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 110039,
+      "stars_today": 128,
+      "forks": 14243
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15143,
+      "stars_today": 478,
+      "forks": 1498
+    },
+    {
+      "owner": "ahmedkhaleel2004",
+      "name": "gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "stars": 16348,
+      "stars_today": 145,
+      "forks": 1252
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 4818,
+      "stars_today": 842,
+      "forks": 200
+    }
+  ]
+}
