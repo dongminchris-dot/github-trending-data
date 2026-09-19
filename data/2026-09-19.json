@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-19",
+  "fetched_at": "2026-09-19T16:01:48.652646+00:00",
+  "count": 15,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 15571,
+      "stars_today": 3162,
+      "forks": 851
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 24047,
+      "stars_today": 383,
+      "forks": 1660
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96811,
+      "stars_today": 547,
+      "forks": 10228
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15506,
+      "stars_today": 406,
+      "forks": 1512
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146589,
+      "stars_today": 482,
+      "forks": 23867
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 15824,
+      "stars_today": 477,
+      "forks": 2073
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 4802,
+      "stars_today": 325,
+      "forks": 892
+    },
+    {
+      "owner": "docling-project",
+      "name": "docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars": 66843,
+      "stars_today": 94,
+      "forks": 4823
+    },
+    {
+      "owner": "cloudflare",
+      "name": "quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 11924,
+      "stars_today": 5,
+      "forks": 1102
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5143,
+      "stars_today": 430,
+      "forks": 213
+    },
+    {
+      "owner": "ruanyf",
+      "name": "weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 103048,
+      "stars_today": 151,
+      "forks": 4424
+    },
+    {
+      "owner": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 37721,
+      "stars_today": 31,
+      "forks": 5201
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 25034,
+      "stars_today": 280,
+      "forks": 2984
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "stars": 11490,
+      "stars_today": 207,
+      "forks": 730
+    },
+    {
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3352,
+      "stars_today": 64,
+      "forks": 441
+    }
+  ]
+}
