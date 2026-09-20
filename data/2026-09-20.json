@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-20",
+  "fetched_at": "2026-09-20T16:26:48.035152+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 263456,
+      "stars_today": 1012,
+      "forks": 39425
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5071,
+      "stars_today": 89,
+      "forks": 476
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 17694,
+      "stars_today": 2375,
+      "forks": 984
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 24997,
+      "stars_today": 1012,
+      "forks": 1717
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35257,
+      "stars_today": 236,
+      "forks": 5242
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": 45431,
+      "stars_today": 32,
+      "forks": 3138
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146984,
+      "stars_today": 415,
+      "forks": 24020
+    },
+    {
+      "owner": "mihail911",
+      "name": "modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "stars": 4475,
+      "stars_today": 174,
+      "forks": 1007
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 5233,
+      "stars_today": 461,
+      "forks": 939
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 16588,
+      "stars_today": 752,
+      "forks": 2127
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15890,
+      "stars_today": 382,
+      "forks": 1537
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "json-render",
+      "description": "The Generative UI framework",
+      "language": "TypeScript",
+      "stars": 17109,
+      "stars_today": 332,
+      "forks": 913
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97513,
+      "stars_today": 729,
+      "forks": 10285
+    }
+  ]
+}
