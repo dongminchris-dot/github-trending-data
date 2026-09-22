@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-22",
+  "fetched_at": "2026-09-22T17:14:06.610534+00:00",
+  "count": 8,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 36191,
+      "stars_today": 436,
+      "forks": 5297
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 2843,
+      "stars_today": 301,
+      "forks": 376
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 15149,
+      "stars_today": 202,
+      "forks": 1358
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 31005,
+      "stars_today": 113,
+      "forks": 3533
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 7239,
+      "stars_today": 2324,
+      "forks": 340
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13881,
+      "stars_today": 441,
+      "forks": 1343
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 2087,
+      "stars_today": 197,
+      "forks": 209
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 25664,
+      "stars_today": 155,
+      "forks": 3106
+    }
+  ]
+}
