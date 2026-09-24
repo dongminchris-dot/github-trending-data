@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-24",
+  "fetched_at": "2026-09-24T17:30:45.998828+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 56251,
+      "stars_today": 310,
+      "forks": 9902
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 27466,
+      "stars_today": 1607,
+      "forks": 2629
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 17349,
+      "stars_today": 1060,
+      "forks": 1508
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 10002,
+      "stars_today": 1376,
+      "forks": 489
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 3976,
+      "stars_today": 22,
+      "forks": 625
+    },
+    {
+      "owner": "FxEmbed",
+      "name": "FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars": 5322,
+      "stars_today": 165,
+      "forks": 247
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 37274,
+      "stars_today": 510,
+      "forks": 5413
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 50225,
+      "stars_today": 415,
+      "forks": 4611
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 14657,
+      "stars_today": 275,
+      "forks": 1392
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 291106,
+      "stars_today": 606,
+      "forks": 26045
+    },
+    {
+      "owner": "strands-agents",
+      "name": "harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "stars": 8170,
+      "stars_today": 463,
+      "forks": 1223
+    },
+    {
+      "owner": "julyx10",
+      "name": "lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Vue",
+      "stars": 2770,
+      "stars_today": 151,
+      "forks": 168
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 3054,
+      "stars_today": 470,
+      "forks": 254
+    },
+    {
+      "owner": "leejet",
+      "name": "stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "language": "C++",
+      "stars": 7196,
+      "stars_today": 69,
+      "forks": 810
+    }
+  ]
+}
