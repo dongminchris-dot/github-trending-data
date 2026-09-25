@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-25",
+  "fetched_at": "2026-09-25T17:30:33.436821+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 84194,
+      "stars_today": 1853,
+      "forks": 15185
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 36828,
+      "stars_today": 62,
+      "forks": 4149
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 29495,
+      "stars_today": 1652,
+      "forks": 3098
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 291542,
+      "stars_today": 465,
+      "forks": 26095
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 269562,
+      "stars_today": 671,
+      "forks": 22716
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 18283,
+      "stars_today": 1048,
+      "forks": 1557
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 178179,
+      "stars_today": 231,
+      "forks": 21103
+    },
+    {
+      "owner": "androoAGI",
+      "name": "starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars": 377,
+      "stars_today": 118,
+      "forks": 81
+    },
+    {
+      "owner": "derv82",
+      "name": "wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "stars": 796,
+      "stars_today": 168,
+      "forks": 78
+    },
+    {
+      "owner": "kelseyhightower",
+      "name": "kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "stars": 50070,
+      "stars_today": 105,
+      "forks": 15913
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 57296,
+      "stars_today": 1181,
+      "forks": 10008
+    },
+    {
+      "owner": "shy3130",
+      "name": "tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "language": "Python",
+      "stars": 5090,
+      "stars_today": 31,
+      "forks": 1252
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 11296,
+      "stars_today": 1386,
+      "forks": 543
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 4360,
+      "stars_today": 360,
+      "forks": 644
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 71056,
+      "stars_today": 326,
+      "forks": 4308
+    },
+    {
+      "owner": "openbao",
+      "name": "openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": 7616,
+      "stars_today": 16,
+      "forks": 581
+    }
+  ]
+}
