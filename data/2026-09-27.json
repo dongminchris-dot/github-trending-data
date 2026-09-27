@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-27",
+  "fetched_at": "2026-09-27T17:14:34.771787+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 89105,
+      "stars_today": 2527,
+      "forks": 15600
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 36310,
+      "stars_today": 4463,
+      "forks": 4668
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 39298,
+      "stars_today": 3060,
+      "forks": 4676
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 59003,
+      "stars_today": 848,
+      "forks": 10208
+    },
+    {
+      "owner": "InfinityLoop1308",
+      "name": "PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars": 6475,
+      "stars_today": 139,
+      "forks": 216
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars": 5299,
+      "stars_today": 76,
+      "forks": 137
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 779,
+      "stars_today": 114,
+      "forks": 88
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 20014,
+      "stars_today": 920,
+      "forks": 1698
+    },
+    {
+      "owner": "willfaust",
+      "name": "Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 748,
+      "stars_today": 117,
+      "forks": 151
+    }
+  ]
+}
