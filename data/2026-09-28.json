@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-28",
+  "fetched_at": "2026-09-28T19:48:50.948613+00:00",
+  "count": 8,
+  "repositories": [
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 43426,
+      "stars_today": 3274,
+      "forks": 5053
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 92442,
+      "stars_today": 3185,
+      "forks": 15860
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 40754,
+      "stars_today": 4413,
+      "forks": 5517
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 25695,
+      "stars_today": 145,
+      "forks": 5882
+    },
+    {
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": 2423,
+      "stars_today": 316,
+      "forks": 231
+    },
+    {
+      "owner": "byoungd",
+      "name": "up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars": 64588,
+      "stars_today": 310,
+      "forks": 6508
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1592,
+      "stars_today": 781,
+      "forks": 130
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 21139,
+      "stars_today": 1105,
+      "forks": 1795
+    }
+  ]
+}
