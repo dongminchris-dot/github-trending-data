@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-29",
+  "fetched_at": "2026-09-29T18:13:47.175178+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 47369,
+      "stars_today": 4712,
+      "forks": 5340
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 10344,
+      "stars_today": 978,
+      "forks": 1400
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 42551,
+      "stars_today": 2541,
+      "forks": 5732
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 94231,
+      "stars_today": 2412,
+      "forks": 16021
+    },
+    {
+      "owner": "t8y2",
+      "name": "dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars": 21821,
+      "stars_today": 349,
+      "forks": 2082
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 2255,
+      "stars_today": 733,
+      "forks": 165
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 13709,
+      "stars_today": 436,
+      "forks": 1226
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 9948,
+      "stars_today": 114,
+      "forks": 1520
+    },
+    {
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": 2987,
+      "stars_today": 569,
+      "forks": 267
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 61131,
+      "stars_today": 855,
+      "forks": 10514
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 37117,
+      "stars_today": 822,
+      "forks": 3246
+    },
+    {
+      "owner": "willfaust",
+      "name": "Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 1065,
+      "stars_today": 85,
+      "forks": 186
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 21737,
+      "stars_today": 692,
+      "forks": 1836
+    },
+    {
+      "owner": "rakyll",
+      "name": "hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "language": "Go",
+      "stars": 20428,
+      "stars_today": 31,
+      "forks": 1310
+    }
+  ]
+}
