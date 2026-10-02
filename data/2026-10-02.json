@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-02",
+  "fetched_at": "2026-10-02T18:00:08.195705+00:00",
+  "count": 17,
+  "repositories": [
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 88288,
+      "stars_today": 683,
+      "forks": 7782
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 108972,
+      "stars_today": 271,
+      "forks": 6313
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294329,
+      "stars_today": 561,
+      "forks": 26314
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 151435,
+      "stars_today": 1429,
+      "forks": 8119
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 74139,
+      "stars_today": 717,
+      "forks": 4469
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 274544,
+      "stars_today": 955,
+      "forks": 23052
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 14335,
+      "stars_today": 584,
+      "forks": 1652
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 52319,
+      "stars_today": 139,
+      "forks": 7876
+    },
+    {
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 55761,
+      "stars_today": 584,
+      "forks": 5033
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 24972,
+      "stars_today": 276,
+      "forks": 1796
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 20670,
+      "stars_today": 78,
+      "forks": 1717
+    },
+    {
+      "owner": "getsentry",
+      "name": "sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 44981,
+      "stars_today": 12,
+      "forks": 4886
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars": 72897,
+      "stars_today": 241,
+      "forks": 4680
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 9445,
+      "stars_today": 168,
+      "forks": 894
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": 4154,
+      "stars_today": 691,
+      "forks": 282
+    },
+    {
+      "owner": "Effect-TS",
+      "name": "effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16477,
+      "stars_today": 76,
+      "forks": 797
+    },
+    {
+      "owner": "pablostanley",
+      "name": "yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 3371,
+      "stars_today": 629,
+      "forks": 303
+    }
+  ]
+}
