@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-09",
+  "fetched_at": "2026-10-09T18:29:24.231412+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 40917,
+      "stars_today": 15335,
+      "forks": 6378
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 20875,
+      "stars_today": 5925,
+      "forks": 1681
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 282361,
+      "stars_today": 1696,
+      "forks": 23654
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 47646,
+      "stars_today": 1744,
+      "forks": 3020
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 45017,
+      "stars_today": 323,
+      "forks": 3257
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 28109,
+      "stars_today": 714,
+      "forks": 3238
+    },
+    {
+      "owner": "BerriAI",
+      "name": "litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": 60558,
+      "stars_today": 95,
+      "forks": 12178
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 103814,
+      "stars_today": 523,
+      "forks": 10854
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 10748,
+      "stars_today": 3723,
+      "forks": 1609
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": 17628,
+      "stars_today": 109,
+      "forks": 1946
+    },
+    {
+      "owner": "twostraws",
+      "name": "SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "",
+      "stars": 5339,
+      "stars_today": 88,
+      "forks": 190
+    }
+  ]
+}
