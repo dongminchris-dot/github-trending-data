@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-10",
+  "fetched_at": "2026-10-10T17:26:56.430926+00:00",
+  "count": 13,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 66572,
+      "stars_today": 25784,
+      "forks": 13977
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 25645,
+      "stars_today": 5831,
+      "forks": 2131
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 13624,
+      "stars_today": 3217,
+      "forks": 2117
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 48689,
+      "stars_today": 1189,
+      "forks": 3074
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 26174,
+      "stars_today": 178,
+      "forks": 1882
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 284038,
+      "stars_today": 1737,
+      "forks": 23787
+    },
+    {
+      "owner": "flutter",
+      "name": "flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 179378,
+      "stars_today": 164,
+      "forks": 33547
+    },
+    {
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 200658,
+      "stars_today": 24,
+      "forks": 78909
+    },
+    {
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": 59220,
+      "stars_today": 515,
+      "forks": 4667
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104084,
+      "stars_today": 81,
+      "forks": 31909
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 167113,
+      "stars_today": 94,
+      "forks": 34794
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 28676,
+      "stars_today": 626,
+      "forks": 3269
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 218037,
+      "stars_today": 279,
+      "forks": 21969
+    }
+  ]
+}
