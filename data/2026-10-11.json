@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-11",
+  "fetched_at": "2026-10-11T17:45:41.730047+00:00",
+  "count": 8,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 95602,
+      "stars_today": 25585,
+      "forks": 21320
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 29157,
+      "stars_today": 3977,
+      "forks": 2503
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 16897,
+      "stars_today": 2956,
+      "forks": 2747
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 49968,
+      "stars_today": 1083,
+      "forks": 3168
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 51175,
+      "stars_today": 872,
+      "forks": 10294
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104376,
+      "stars_today": 314,
+      "forks": 32074
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 36282,
+      "stars_today": 541,
+      "forks": 3802
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 74047,
+      "stars_today": 496,
+      "forks": 8090
+    }
+  ]
+}
