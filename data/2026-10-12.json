@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-12",
+  "fetched_at": "2026-10-12T21:23:12.023358+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 151776,
+      "stars_today": 45495,
+      "forks": 35017
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 53437,
+      "stars_today": 1903,
+      "forks": 10590
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 27191,
+      "stars_today": 394,
+      "forks": 1940
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 21547,
+      "stars_today": 4106,
+      "forks": 3498
+    },
+    {
+      "owner": "open-webui",
+      "name": "open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "stars": 154869,
+      "stars_today": 142,
+      "forks": 22632
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 52420,
+      "stars_today": 2100,
+      "forks": 3309
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 37429,
+      "stars_today": 886,
+      "forks": 3864
+    },
+    {
+      "owner": "microsoft",
+      "name": "BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": 40869,
+      "stars_today": 134,
+      "forks": 3805
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 58952,
+      "stars_today": 705,
+      "forks": 9299
+    }
+  ]
+}
