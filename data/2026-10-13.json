@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-13",
+  "fetched_at": "2026-10-13T19:29:56.401189+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 201426,
+      "stars_today": 54706,
+      "forks": 49206
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55074,
+      "stars_today": 1961,
+      "forks": 10791
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 62659,
+      "stars_today": 2277,
+      "forks": 6984
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28055,
+      "stars_today": 978,
+      "forks": 1987
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 53872,
+      "stars_today": 1813,
+      "forks": 3420
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34352,
+      "stars_today": 187,
+      "forks": 2944
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 38198,
+      "stars_today": 1004,
+      "forks": 3909
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 25087,
+      "stars_today": 4078,
+      "forks": 3947
+    },
+    {
+      "owner": "xtool-org",
+      "name": "xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9091,
+      "stars_today": 1182,
+      "forks": 382
+    }
+  ]
+}
