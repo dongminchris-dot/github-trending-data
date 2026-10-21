@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-21",
+  "fetched_at": "2026-10-21T17:36:30.941688+00:00",
+  "count": 12,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 35478,
+      "stars_today": 1997,
+      "forks": 2229
+    },
+    {
+      "owner": "vllm-project",
+      "name": "vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": 94767,
+      "stars_today": 439,
+      "forks": 23729
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 100905,
+      "stars_today": 1543,
+      "forks": 6380
+    },
+    {
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 77119,
+      "stars_today": 477,
+      "forks": 5985
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 171151,
+      "stars_today": 2051,
+      "forks": 9313
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 141343,
+      "stars_today": 914,
+      "forks": 16714
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 112798,
+      "stars_today": 509,
+      "forks": 16869
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 58965,
+      "stars_today": 105,
+      "forks": 9653
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 42705,
+      "stars_today": 570,
+      "forks": 7054
+    },
+    {
+      "owner": "strelov1",
+      "name": "freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "stars": 2187,
+      "stars_today": 396,
+      "forks": 234
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 12170,
+      "stars_today": 303,
+      "forks": 862
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 131280,
+      "stars_today": 1434,
+      "forks": 12609
+    }
+  ]
+}
