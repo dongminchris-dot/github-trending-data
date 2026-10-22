@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-22",
+  "fetched_at": "2026-10-22T17:35:08.100996+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "php",
+      "name": "php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 41003,
+      "stars_today": 423,
+      "forks": 8295
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 31442,
+      "stars_today": 303,
+      "forks": 3520
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 173035,
+      "stars_today": 1949,
+      "forks": 9418
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 38781,
+      "stars_today": 2979,
+      "forks": 2417
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 132655,
+      "stars_today": 1407,
+      "forks": 12702
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113371,
+      "stars_today": 683,
+      "forks": 16986
+    },
+    {
+      "owner": "fastapi",
+      "name": "fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": 103575,
+      "stars_today": 96,
+      "forks": 10081
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 42887,
+      "stars_today": 370,
+      "forks": 5373
+    },
+    {
+      "owner": "Meloong-Git",
+      "name": "PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": 8636,
+      "stars_today": 115,
+      "forks": 1192
+    }
+  ]
+}
