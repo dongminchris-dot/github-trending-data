@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-24",
+  "fetched_at": "2026-10-24T16:12:46.853741+00:00",
+  "count": 10,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 43530,
+      "stars_today": 2271,
+      "forks": 2719
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 19249,
+      "stars_today": 893,
+      "forks": 1915
+    },
+    {
+      "owner": "aws",
+      "name": "agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 3023,
+      "stars_today": 11,
+      "forks": 394
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 31714,
+      "stars_today": 567,
+      "forks": 1633
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 44298,
+      "stars_today": 442,
+      "forks": 5478
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 86060,
+      "stars_today": 541,
+      "forks": 5141
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 10772,
+      "stars_today": 421,
+      "forks": 1387
+    },
+    {
+      "owner": "google-gemini",
+      "name": "gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "language": "TypeScript",
+      "stars": 107769,
+      "stars_today": 38,
+      "forks": 14789
+    },
+    {
+      "owner": "jbiaojerry",
+      "name": "ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "language": "Python",
+      "stars": 22459,
+      "stars_today": 220,
+      "forks": 3180
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 3886,
+      "stars_today": 471,
+      "forks": 568
+    }
+  ]
+}
