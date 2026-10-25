@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-25",
+  "fetched_at": "2026-10-25T16:46:38.219174+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 4636,
+      "stars_today": 677,
+      "forks": 647
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 33268,
+      "stars_today": 1359,
+      "forks": 1731
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 86195,
+      "stars_today": 1588,
+      "forks": 9555
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 87321,
+      "stars_today": 1113,
+      "forks": 5217
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 11453,
+      "stars_today": 657,
+      "forks": 1464
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 114207,
+      "stars_today": 636,
+      "forks": 22101
+    },
+    {
+      "owner": "Renhuai123",
+      "name": "ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": 7480,
+      "stars_today": 255,
+      "forks": 1531
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 1247,
+      "stars_today": 52,
+      "forks": 88
+    },
+    {
+      "owner": "coollabsio",
+      "name": "coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "stars": 64052,
+      "stars_today": 192,
+      "forks": 5761
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 46276,
+      "stars_today": 2874,
+      "forks": 2877
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars": 20477,
+      "stars_today": 179,
+      "forks": 2928
+    }
+  ]
+}
