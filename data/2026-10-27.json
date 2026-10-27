@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-27",
+  "fetched_at": "2026-10-27T18:12:55.357056+00:00",
+  "count": 10,
+  "repositories": [
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 38560,
+      "stars_today": 2859,
+      "forks": 2012
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 2206,
+      "stars_today": 794,
+      "forks": 236
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 306216,
+      "stars_today": 608,
+      "forks": 27266
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 90257,
+      "stars_today": 1458,
+      "forks": 5367
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 7327,
+      "stars_today": 1446,
+      "forks": 874
+    },
+    {
+      "owner": "gitroomhq",
+      "name": "postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars": 39135,
+      "stars_today": 953,
+      "forks": 7482
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 290622,
+      "stars_today": 1183,
+      "forks": 43054
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 45537,
+      "stars_today": 1587,
+      "forks": 5729
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 3790,
+      "stars_today": 1211,
+      "forks": 200
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars": 5245,
+      "stars_today": 890,
+      "forks": 804
+    }
+  ]
+}
