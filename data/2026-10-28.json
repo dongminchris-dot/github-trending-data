@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-28T18:28:02.694620+00:00",
+  "count": 14,
+  "repositories": [
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 4850,
+      "stars_today": 1075,
+      "forks": 251
+    },
+    {
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars": 10917,
+      "stars_today": 1395,
+      "forks": 779
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 307249,
+      "stars_today": 1096,
+      "forks": 27340
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 47710,
+      "stars_today": 2376,
+      "forks": 5931
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 5310,
+      "stars_today": 106,
+      "forks": 515
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 40433,
+      "stars_today": 2109,
+      "forks": 2101
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 92221,
+      "stars_today": 1471,
+      "forks": 5447
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 7955,
+      "stars_today": 740,
+      "forks": 932
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 3088,
+      "stars_today": 1053,
+      "forks": 304
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "",
+      "stars": 6819,
+      "stars_today": 1478,
+      "forks": 987
+    },
+    {
+      "owner": "hmjz100",
+      "name": "LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars": 34196,
+      "stars_today": 3209,
+      "forks": 2406
+    },
+    {
+      "owner": "expo",
+      "name": "skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars": 3478,
+      "stars_today": 212,
+      "forks": 220
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 100826,
+      "stars_today": 596,
+      "forks": 13143
+    },
+    {
+      "owner": "xiaolai",
+      "name": "the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "stars": 18417,
+      "stars_today": 143,
+      "forks": 17879
+    }
+  ]
+}
