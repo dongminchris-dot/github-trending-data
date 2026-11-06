@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-06T19:39:19.666393+00:00",
+  "count": 18,
+  "repositories": [
+    {
+      "owner": "zed-industries",
+      "name": "zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 93408,
+      "stars_today": 292,
+      "forks": 11483
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 8776,
+      "stars_today": 2005,
+      "forks": 706
+    },
+    {
+      "owner": "rails",
+      "name": "rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 58957,
+      "stars_today": 152,
+      "forks": 23826
+    },
+    {
+      "owner": "mpv-player",
+      "name": "mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": 37832,
+      "stars_today": 36,
+      "forks": 3630
+    },
+    {
+      "owner": "rust-lang",
+      "name": "rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 121328,
+      "stars_today": 186,
+      "forks": 17359
+    },
+    {
+      "owner": "react",
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 252169,
+      "stars_today": 244,
+      "forks": 51802
+    },
+    {
+      "owner": "angular",
+      "name": "angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 101246,
+      "stars_today": 128,
+      "forks": 28908
+    },
+    {
+      "owner": "symfony",
+      "name": "symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 31343,
+      "stars_today": 89,
+      "forks": 9943
+    },
+    {
+      "owner": "prometheus",
+      "name": "prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 67091,
+      "stars_today": 140,
+      "forks": 10980
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22762,
+      "stars_today": 532,
+      "forks": 1916
+    },
+    {
+      "owner": "microsoft",
+      "name": "vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 194926,
+      "stars_today": 295,
+      "forks": 44412
+    },
+    {
+      "owner": "lz4",
+      "name": "lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 12615,
+      "stars_today": 313,
+      "forks": 1643
+    },
+    {
+      "owner": "nushell",
+      "name": "nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": 40886,
+      "stars_today": 88,
+      "forks": 2338
+    },
+    {
+      "owner": "etcd-io",
+      "name": "etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 52557,
+      "stars_today": 123,
+      "forks": 10585
+    },
+    {
+      "owner": "openssl",
+      "name": "openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars": 31250,
+      "stars_today": 24,
+      "forks": 11581
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 316508,
+      "stars_today": 2058,
+      "forks": 26476
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 63582,
+      "stars_today": 2524,
+      "forks": 4123
+    },
+    {
+      "owner": "astral-sh",
+      "name": "ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": 50584,
+      "stars_today": 107,
+      "forks": 2601
+    }
+  ]
+}
