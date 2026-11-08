@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-08",
+  "fetched_at": "2026-11-08T18:02:59.045573+00:00",
+  "count": 9,
+  "repositories": [
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 102783,
+      "stars_today": 2372,
+      "forks": 12085
+    },
+    {
+      "owner": "dsx-ai-factory",
+      "name": "nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": 765,
+      "stars_today": 345,
+      "forks": 106
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 17986,
+      "stars_today": 1437,
+      "forks": 2512
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 19299,
+      "stars_today": 28,
+      "forks": 3272
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 47420,
+      "stars_today": 812,
+      "forks": 3249
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 15963,
+      "stars_today": 863,
+      "forks": 1282
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 189381,
+      "stars_today": 793,
+      "forks": 22323
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 16282,
+      "stars_today": 26,
+      "forks": 1947
+    },
+    {
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": 5017,
+      "stars_today": 460,
+      "forks": 401
+    }
+  ]
+}
