@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-09",
+  "fetched_at": "2026-11-09T22:39:54.087175+00:00",
+  "count": 11,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 190864,
+      "stars_today": 1052,
+      "forks": 22436
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 19818,
+      "stars_today": 3324,
+      "forks": 1507
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 106895,
+      "stars_today": 4294,
+      "forks": 12375
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 16876,
+      "stars_today": 579,
+      "forks": 1989
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 19983,
+      "stars_today": 560,
+      "forks": 3308
+    },
+    {
+      "owner": "garrytan",
+      "name": "gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "stars": 32100,
+      "stars_today": 215,
+      "forks": 4761
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 48412,
+      "stars_today": 914,
+      "forks": 3299
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 103401,
+      "stars_today": 245,
+      "forks": 13399
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 68785,
+      "stars_today": 505,
+      "forks": 56375
+    },
+    {
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 5906,
+      "stars_today": 31,
+      "forks": 292
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 19598,
+      "stars_today": 1589,
+      "forks": 2685
+    }
+  ]
+}
