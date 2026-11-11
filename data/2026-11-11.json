@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-11",
+  "fetched_at": "2026-11-11T19:49:50.976429+00:00",
+  "count": 10,
+  "repositories": [
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 24684,
+      "stars_today": 2842,
+      "forks": 1928
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 70066,
+      "stars_today": 429,
+      "forks": 56813
+    },
+    {
+      "owner": "GoogleChrome",
+      "name": "modern-web-guidance-src",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1635,
+      "stars_today": 133,
+      "forks": 136
+    },
+    {
+      "owner": "shadcn",
+      "name": "improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 10711,
+      "stars_today": 333,
+      "forks": 436
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 115797,
+      "stars_today": 788,
+      "forks": 12145
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 49774,
+      "stars_today": 712,
+      "forks": 3481
+    },
+    {
+      "owner": "we-promise",
+      "name": "sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 12784,
+      "stars_today": 1079,
+      "forks": 947
+    },
+    {
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 7205,
+      "stars_today": 640,
+      "forks": 448
+    },
+    {
+      "owner": "openai",
+      "name": "codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars": 11603,
+      "stars_today": 20,
+      "forks": 921
+    },
+    {
+      "owner": "TheAlgorithms",
+      "name": "Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 66955,
+      "stars_today": 108,
+      "forks": 21499
+    }
+  ]
+}
