@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-18",
+  "fetched_at": "2026-11-18T20:51:30.487542+00:00",
+  "count": 20,
+  "repositories": [
+    {
+      "owner": "elementalsouls",
+      "name": "Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": 11167,
+      "stars_today": 2322,
+      "forks": 1499
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 17157,
+      "stars_today": 315,
+      "forks": 1891
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 59617,
+      "stars_today": 384,
+      "forks": 5412
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 69892,
+      "stars_today": 1062,
+      "forks": 6239
+    },
+    {
+      "owner": "getarcaneapp",
+      "name": "arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "stars": 9757,
+      "stars_today": 547,
+      "forks": 558
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "language": "Python",
+      "stars": 3652,
+      "stars_today": 323,
+      "forks": 510
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96145,
+      "stars_today": 111,
+      "forks": 10781
+    },
+    {
+      "owner": "astral-sh",
+      "name": "uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 92198,
+      "stars_today": 260,
+      "forks": 3921
+    },
+    {
+      "owner": "google-research",
+      "name": "paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "stars": 4161,
+      "stars_today": 1529,
+      "forks": 520
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 10369,
+      "stars_today": 369,
+      "forks": 1365
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 89738,
+      "stars_today": 694,
+      "forks": 6215
+    },
+    {
+      "owner": "jquery",
+      "name": "jquery",
+      "description": "jQuery JavaScript Library",
+      "language": "JavaScript",
+      "stars": 60003,
+      "stars_today": 268,
+      "forks": 20715
+    },
+    {
+      "owner": "appwrite",
+      "name": "appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "stars": 58199,
+      "stars_today": 239,
+      "forks": 5888
+    },
+    {
+      "owner": "openvinotoolkit",
+      "name": "openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 11300,
+      "stars_today": 18,
+      "forks": 3601
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 319947,
+      "stars_today": 823,
+      "forks": 28546
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 306395,
+      "stars_today": 1109,
+      "forks": 45108
+    },
+    {
+      "owner": "DeanChensj",
+      "name": "jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "language": "JavaScript",
+      "stars": 7902,
+      "stars_today": 280,
+      "forks": 966
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 211006,
+      "stars_today": 315,
+      "forks": 61565
+    },
+    {
+      "owner": "solidjs",
+      "name": "solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "stars": 36530,
+      "stars_today": 37,
+      "forks": 1179
+    },
+    {
+      "owner": "punkpeye",
+      "name": "awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars": 97988,
+      "stars_today": 52,
+      "forks": 20338
+    }
+  ]
+}
