@@ -1,151 +1,151 @@
 {
   "date": "2026-11-24",
-  "fetched_at": "2026-11-24T00:17:21.287091+00:00",
+  "fetched_at": "2026-11-24T22:43:49.448620+00:00",
   "count": 16,
   "repositories": [
     {
       "owner": "elementalsouls",
       "name": "Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 19734,
-      "stars_today": 2029,
-      "forks": 2096
+      "stars": 21360,
+      "stars_today": 1833,
+      "forks": 2224
     },
     {
       "owner": "obra",
       "name": "superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 325049,
-      "stars_today": 840,
-      "forks": 28833
+      "stars": 325751,
+      "stars_today": 1006,
+      "forks": 28900
     },
     {
       "owner": "HKUDS",
       "name": "CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars": 63616,
-      "stars_today": 790,
-      "forks": 5778
+      "stars": 64675,
+      "stars_today": 1075,
+      "forks": 5896
     },
     {
       "owner": "jingyaogong",
       "name": "minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 69442,
-      "stars_today": 828,
-      "forks": 9064
+      "stars": 70140,
+      "stars_today": 727,
+      "forks": 9128
     },
     {
       "owner": "cursor",
       "name": "plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 18795,
-      "stars_today": 397,
-      "forks": 2042
+      "stars": 19169,
+      "stars_today": 359,
+      "forks": 2074
     },
     {
       "owner": "firecrawl",
       "name": "firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": 207908,
-      "stars_today": 924,
-      "forks": 10865
+      "stars": 208872,
+      "stars_today": 990,
+      "forks": 10913
     },
     {
       "owner": "nginx",
       "name": "nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 33048,
-      "stars_today": 174,
-      "forks": 8395
+      "stars": 33207,
+      "stars_today": 158,
+      "forks": 8394
     },
     {
       "owner": "openvinotoolkit",
       "name": "openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12277,
-      "stars_today": 184,
-      "forks": 3680
+      "stars": 12446,
+      "stars_today": 187,
+      "forks": 3693
     },
     {
       "owner": "cathrynlavery",
       "name": "diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 70957,
-      "stars_today": 620,
-      "forks": 4746
+      "stars": 71959,
+      "stars_today": 794,
+      "forks": 4803
     },
     {
       "owner": "mvanhorn",
       "name": "last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 73429,
-      "stars_today": 797,
-      "forks": 6479
+      "stars": 74150,
+      "stars_today": 695,
+      "forks": 6538
     },
     {
       "owner": "google-labs-code",
       "name": "stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 12276,
-      "stars_today": 422,
-      "forks": 1513
+      "stars": 12623,
+      "stars_today": 401,
+      "forks": 1525
     },
     {
       "owner": "mjmirza",
       "name": "app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 4953,
-      "stars_today": 761,
-      "forks": 314
+      "stars": 5811,
+      "stars_today": 936,
+      "forks": 375
     },
     {
       "owner": "Tracer-Cloud",
       "name": "opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": 14828,
-      "stars_today": 436,
-      "forks": 1988
+      "stars": 15162,
+      "stars_today": 408,
+      "forks": 2010
     },
     {
       "owner": "toeverything",
       "name": "AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": 77385,
-      "stars_today": 595,
-      "forks": 5663
+      "stars": 77947,
+      "stars_today": 589,
+      "forks": 5697
     },
     {
       "owner": "XiaoYouChR",
       "name": "Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": 16296,
-      "stars_today": 1087,
-      "forks": 977
+      "stars": 17266,
+      "stars_today": 1102,
+      "forks": 1047
     },
     {
       "owner": "zhouxiaoka",
       "name": "autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
-      "stars": 14375,
-      "stars_today": 907,
-      "forks": 2205
+      "stars": 15285,
+      "stars_today": 981,
+      "forks": 2265
     }
   ]
 }
