@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-25",
+  "fetched_at": "2026-11-25T21:57:19.007573+00:00",
+  "count": 16,
+  "repositories": [
+    {
+      "owner": "elementalsouls",
+      "name": "Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": 22849,
+      "stars_today": 1644,
+      "forks": 2345
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 326545,
+      "stars_today": 902,
+      "forks": 28975
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 65616,
+      "stars_today": 1094,
+      "forks": 5968
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars": 70897,
+      "stars_today": 828,
+      "forks": 9214
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 19510,
+      "stars_today": 408,
+      "forks": 2106
+    },
+    {
+      "owner": "firecrawl",
+      "name": "firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "stars": 209947,
+      "stars_today": 1131,
+      "forks": 10983
+    },
+    {
+      "owner": "nginx",
+      "name": "nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": 33352,
+      "stars_today": 174,
+      "forks": 8406
+    },
+    {
+      "owner": "openvinotoolkit",
+      "name": "openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 12637,
+      "stars_today": 188,
+      "forks": 3712
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 72938,
+      "stars_today": 1133,
+      "forks": 4854
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 75035,
+      "stars_today": 950,
+      "forks": 6615
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 12950,
+      "stars_today": 352,
+      "forks": 1536
+    },
+    {
+      "owner": "mjmirza",
+      "name": "app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "stars": 6430,
+      "stars_today": 853,
+      "forks": 413
+    },
+    {
+      "owner": "Tracer-Cloud",
+      "name": "opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars": 15491,
+      "stars_today": 343,
+      "forks": 2028
+    },
+    {
+      "owner": "toeverything",
+      "name": "AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars": 78434,
+      "stars_today": 578,
+      "forks": 5719
+    },
+    {
+      "owner": "XiaoYouChR",
+      "name": "Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars": 18169,
+      "stars_today": 950,
+      "forks": 1081
+    },
+    {
+      "owner": "zhouxiaoka",
+      "name": "autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "stars": 16106,
+      "stars_today": 868,
+      "forks": 2326
+    }
+  ]
+}
